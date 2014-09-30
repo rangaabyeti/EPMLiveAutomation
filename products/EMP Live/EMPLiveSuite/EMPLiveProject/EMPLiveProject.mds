@@ -200,7 +200,7 @@
 			</Node>
 			<Node name="{3ae91bbd-f37d-40e6-b49d-d2f1ef68e285}">
 				<Prp name="type" type="I" value="1"/>
-				<Prp name="value" type="B" value="-1"/>
+				<Prp name="value" type="B" value="0"/>
 			</Node>
 			<Node name="{3b76535b-58ad-456c-837e-091a5c480f6c}">
 				<Prp name="type" type="I" value="1"/>
@@ -1093,11 +1093,11 @@
 				<Prp name="col2enabled" type="B" value="-1"/>
 				<Prp name="col2type" type="I" value="1"/>
 				<Prp name="colcount" type="I" value="3"/>
-				<Prp name="colindex" type="I" value="2"/>
+				<Prp name="colindex" type="I" value="0"/>
 				<Prp name="rowcount" type="I" value="7"/>
-				<Prp name="rowindex" type="I" value="6"/>
+				<Prp name="rowindex" type="I" value="0"/>
 				<Prp name="type" type="I" value="6"/>
-				<Prp name="val0x0" type="B" value="0"/>
+				<Prp name="val0x0" type="B" value="-1"/>
 				<Prp name="val0x1" type="B" value="-1"/>
 				<Prp name="val0x2" type="B" value="-1"/>
 				<Prp name="val0x3" type="B" value="0"/>
@@ -1161,9 +1161,11 @@
 				<Prp name="col1type" type="I" value="5"/>
 				<Prp name="colcount" type="I" value="2"/>
 				<Prp name="colindex" type="I" value="1"/>
-				<Prp name="rowcount" type="I" value="0"/>
-				<Prp name="rowindex" type="I" value="-1"/>
+				<Prp name="rowcount" type="I" value="1"/>
+				<Prp name="rowindex" type="I" value="0"/>
 				<Prp name="type" type="I" value="6"/>
+				<Prp name="val0x0" type="B" value="-1"/>
+				<Prp name="val1x0" type="S" value="*"/>
 			</Node>
 			<Prp name="key" type="S" value="{CC5128B7-C57B-44A1-BC8F-6A67FA4D236D}"/>
 			<Prp name="settingsversion" type="S" value="10.30"/>

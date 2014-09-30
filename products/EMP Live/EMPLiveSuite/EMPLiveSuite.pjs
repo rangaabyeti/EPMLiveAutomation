@@ -58,7 +58,7 @@
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="index" type="I" value="0"/>
 					<Prp name="key" type="S" value="{39A61DA2-51B4-4A65-85E7-F13839C74D17}"/>
-					<Prp name="stoponerror" type="B" value="-1"/>
+					<Prp name="stoponerror" type="B" value="0"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
 			</Node>

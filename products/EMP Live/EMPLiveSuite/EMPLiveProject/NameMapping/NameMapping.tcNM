@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="42">
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="51">
 	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
 		<Properties />
 		<Children>
@@ -93,46 +93,13 @@
 												</Children>
 												<TypeInfo Item0="3" />
 											</Child0>
-											<Child1 Name="tableGanttgrid0body" Key="{FFC7A8EE-5D23-4195-937B-35476B58AC35}" ExtendedFind="True" ParallelWalk="True">
+											<Child1 Name="panel_EpmNavTop" Key="{7B3E3565-E5F5-4D83-B32A-CDA021AE801F}" ExtendedFind="True" ParallelWalk="True">
 												<Properties>
-													<Property0 Name="ObjectType" Cookie="25" />
-													<Property1 Name="idStr" Cookie="26" />
+													<Property0 Name="ObjectType" Cookie="42" />
+													<Property1 Name="idStr" Cookie="43" />
 												</Properties>
-												<Children>
-													<Child0 Name="cell" Key="{06D85F79-7EEB-41BA-B265-36A589B78D93}" ParallelWalk="True">
-														<Properties>
-															<Property0 Name="ObjectType" Cookie="27" />
-															<Property1 Name="RowIndex" Cookie="28" />
-															<Property2 Name="ColumnIndex" Cookie="29" />
-														</Properties>
-														<Children>
-															<Child0 Name="panelGmpageone" Key="{5C274C34-8D50-4756-8982-833C6F196441}" ExtendedFind="True" ParallelWalk="True">
-																<Properties>
-																	<Property0 Name="ObjectType" Cookie="30" />
-																	<Property1 Name="ObjectIdentifier" Cookie="31" />
-																</Properties>
-																<Children>
-																	<Child0 Name="tableGmsectionff3" Key="{23489C6E-6C78-4693-990C-35C74E476F85}" ExtendedFind="True" ParallelWalk="True">
-																		<Properties>
-																			<Property0 Name="ObjectType" Cookie="32" />
-																		</Properties>
-																		<Children>
-																			<Child0 Name="cellGmclassreadonlyGmwrap0Gmalig" Key="{FEED7A80-CCD3-4615-A665-E8A0B50EA38A}" ParallelWalk="True">
-																				<Properties>
-																					<Property0 Name="ObjectType" Cookie="33" />
-																					<Property1 Name="RowIndex" Cookie="34" />
-																					<Property2 Name="ColumnIndex" Cookie="35" />
-																				</Properties>
-																				<Children />
-																				<TypeInfo Item0="7" />
-																			</Child0>
-																		</Children>
-																	</Child0>
-																</Children>
-															</Child0>
-														</Children>
-													</Child0>
-												</Children>
+												<Children />
+												<TypeInfo Item0="3" />
 											</Child1>
 										</Children>
 										<TypeInfo Item0="3" />
@@ -140,6 +107,23 @@
 								</Children>
 								<TypeInfo Item0="2" />
 							</Child1>
+							<Child2 Name="formAspnetform" Key="{57B650C3-1E61-4195-9E6B-4A658931A3FE}" ExtendedFind="True" ParallelWalk="True">
+								<Properties>
+									<Property0 Name="ObjectType" Cookie="47" />
+									<Property1 Name="idStr" Cookie="48" />
+								</Properties>
+								<Children>
+									<Child0 Name="panelWelcomemenubox" Key="{E11C1665-DB16-454F-97D7-2DD4E3168313}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property0 Name="ObjectType" Cookie="49" />
+											<Property1 Name="idStr" Cookie="50" />
+										</Properties>
+										<Children />
+										<TypeInfo Item0="3" />
+									</Child0>
+								</Children>
+								<TypeInfo Item0="3" />
+							</Child2>
 						</Children>
 						<TypeInfo Item0="0" />
 					</Child0>
@@ -158,6 +142,7 @@
 				<Child0 Name="panel_WelcomeMenuBox" Owner="{323509E4-A0A4-4CFE-9831-610E36CC0F9C}">
 					<Child0 Name="MenuItem_SignOut" Owner="{882BFC9F-14D5-4F61-BCD3-2552B9D4ABD9}" />
 				</Child0>
+				<Child1 Name="panel_EpmNavTop" Owner="{7B3E3565-E5F5-4D83-B32A-CDA021AE801F}" />
 			</Child1>
 		</Child0>
 	</LogicalNodes>
@@ -180,7 +165,7 @@
 			<Property14 Cookie="14" PropertyType="0" Value="SubmitButton" Type="5" />
 			<Property15 Cookie="15" PropertyType="0" Value="Sign In" Type="5" />
 			<Property16 Cookie="16" PropertyType="0" Value="Page" Type="5" />
-			<Property17 Cookie="17" PropertyType="0" Value="https://apps22.epmlive.com/sites/LRT550QA/SitePages/Home.aspx" Type="5" />
+			<Property17 Cookie="17" PropertyType="0" Value="https://apps22release.epmlive.com/sites/*/SitePages/Home.aspx" Type="5" />
 			<Property18 Cookie="18" PropertyType="0" Value="0" Type="0" />
 			<Property19 Cookie="19" PropertyType="0" Value="Form" Type="5" />
 			<Property20 Cookie="20" PropertyType="0" Value="aspnetForm" Type="5" />
@@ -205,6 +190,15 @@
 			<Property39 Cookie="39" PropertyType="0" Value="Link" Type="5" />
 			<Property40 Cookie="40" PropertyType="0" Value="mp1_0_2_Anchor" Type="5" />
 			<Property41 Cookie="41" PropertyType="0" Value="TextNode" Type="5" />
+			<Property42 Cookie="42" PropertyType="0" Value="Panel" Type="5" />
+			<Property43 Cookie="43" PropertyType="0" Value="epm-nav-top" Type="5" />
+			<Property44 Cookie="44" PropertyType="0" Value="Page" Type="5" />
+			<Property45 Cookie="45" PropertyType="0" Value="https://apps22release.epmlive.com/sites/*/SitePages/Home.aspx" Type="5" />
+			<Property46 Cookie="46" PropertyType="0" Value="0" Type="0" />
+			<Property47 Cookie="47" PropertyType="0" Value="Form" Type="5" />
+			<Property48 Cookie="48" PropertyType="0" Value="aspnetForm" Type="5" />
+			<Property49 Cookie="49" PropertyType="0" Value="Panel" Type="5" />
+			<Property50 Cookie="50" PropertyType="0" Value="welcomeMenuBox" Type="5" />
 		</Child0>
 	</Storages>
 	<TypeInfo StoreCodeCompletion="1">
