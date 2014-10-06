@@ -25,7 +25,7 @@
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="EMPLiveProject\EMPLiveProject.mds"/>
+					<Prp name="relpath" type="S" value="EMPLiveProject\EPMLiveProject.mds"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
 				<Prp name="key" type="S" value="{39A61DA2-51B4-4A65-85E7-F13839C74D17}"/>
@@ -35,8 +35,8 @@
 			</Node>
 		</Node>
 		<Node name="files">
-			<Node name="empliveproject\empliveproject.mds">
-				<Prp name="relpath" type="S" value="EMPLiveProject\EMPLiveProject.mds"/>
+			<Node name="empliveproject\epmliveproject.mds">
+				<Prp name="relpath" type="S" value="EMPLiveProject\EPMLiveProject.mds"/>
 			</Node>
 		</Node>
 		<Node name="folders">

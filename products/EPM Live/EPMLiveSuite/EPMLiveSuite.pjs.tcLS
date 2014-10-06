@@ -24,7 +24,7 @@
 				<Prp name="default project" type="S" value="{39A61DA2-51B4-4A65-85E7-F13839C74D17}"/>
 			</Node>
 			<Node name="{39a61da2-51b4-4a65-85e7-f13839c74d17}">
-				<Prp name="relpath" type="S" value="EMPLiveProject\EMPLiveProject.mds.tcLS"/>
+				<Prp name="relpath" type="S" value="EMPLiveProject\EPMLiveProject.mds.tcLS"/>
 			</Node>
 			<Node name="logs">
 				<Prp name="key" type="S" value="{B865F707-1F88-49D8-97DC-12867219B474}"/>
