@@ -25,7 +25,7 @@
 				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
 			</Node>
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{A5B8DA97-2B05-45C7-B91A-6AB6C81CBBA7}"/>
+				<Prp name="activity" type="S" value="{8001B712-6609-4DE0-BE6D-950576EA237A}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
@@ -40,7 +40,12 @@
 			</Node>
 			<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}">
 				<Node name="{00000000-0000-0000-0000-000000000000}">
-					<Node name="{833f8c75-d156-40bf-a205-87a04e647b78}"/>
+					<Node name="{8001b712-6609-4de0-be6d-950576ea237a}"/>
+					<Node name="{833f8c75-d156-40bf-a205-87a04e647b78}">
+						<Prp name="bottom" type="I" value="147"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
 					<Node name="{a5b8da97-2b05-45c7-b91a-6ab6c81cbba7}"/>
 				</Node>
 			</Node>
@@ -50,9 +55,15 @@
 						<Node name="advanced">
 							<Node name="script">
 								<Node name="general"/>
+								<Node name="phase_basic">
+									<Node name="navigation"/>
+								</Node>
 							</Node>
 						</Node>
 					</Node>
+				</Node>
+				<Node name="epmliveproject logs">
+					<Node name="epmliveproject logs"/>
 				</Node>
 			</Node>
 		</Node>
