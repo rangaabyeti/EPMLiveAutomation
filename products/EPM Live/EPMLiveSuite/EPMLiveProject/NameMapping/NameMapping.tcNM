@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="63">
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="95">
 	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
 		<Properties />
 		<Children>
@@ -167,6 +167,134 @@
 												<Children />
 												<TypeInfo Item0="10" />
 											</Child4>
+											<Child5 Name="link_Tasks" Key="{DFF667C5-3E85-43FD-B4E9-2B1FFB07927B}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="63" />
+													<Property1 Name="idStr" Cookie="64" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child5>
+											<Child6 Name="link_Risks" Key="{39F7DA9A-A9AD-4F21-8F1F-5555E1CB68D7}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="65" />
+													<Property1 Name="idStr" Cookie="66" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child6>
+											<Child7 Name="link_Issues" Key="{C11FE931-12CC-4DE4-B75E-47EEF300D61F}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="67" />
+													<Property1 Name="idStr" Cookie="68" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child7>
+											<Child8 Name="link_Changes" Key="{931950CA-3E9D-4568-B2A2-D4420ED55F7A}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="69" />
+													<Property1 Name="idStr" Cookie="70" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child8>
+											<Child9 Name="link_Documents" Key="{D062E769-882A-4A13-B3DD-72F41E8D6C7E}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="71" />
+													<Property1 Name="idStr" Cookie="72" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child9>
+											<Child10 Name="link_Resources" Key="{56EC0703-440C-4D64-8D05-6DFBE2B43F13}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="73" />
+													<Property1 Name="idStr" Cookie="74" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child10>
+											<Child11 Name="link_Reports" Key="{0FA994DF-C558-4943-8747-BCA9E3DA6FF7}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="75" />
+													<Property1 Name="idStr" Cookie="76" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child11>
+											<Child12 Name="link_ServiceRequests" Key="{BDDC4F51-8A99-4CD8-8DCB-969507287AE0}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="77" />
+													<Property1 Name="idStr" Cookie="78" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child12>
+											<Child13 Name="link_Software" Key="{A4290745-1CC1-49C3-83F9-30E571B9BF71}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="79" />
+													<Property1 Name="idStr" Cookie="80" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child13>
+											<Child14 Name="link_Features" Key="{95E161BA-003C-476C-A25A-129323B7035C}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="81" />
+													<Property1 Name="idStr" Cookie="82" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child14>
+											<Child15 Name="link_Backlog" Key="{9899F1A6-811F-4158-B40B-276B3FB3C4F4}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="83" />
+													<Property1 Name="idStr" Cookie="84" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child15>
+											<Child16 Name="link_Whiteboard" Key="{00E76FC4-A8CA-4788-91F6-E1939EF46A1D}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="85" />
+													<Property1 Name="idStr" Cookie="86" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child16>
+											<Child17 Name="link_TestCases" Key="{A3EC565E-91C3-4213-AFFE-49033F9B183E}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="87" />
+													<Property1 Name="idStr" Cookie="88" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child17>
+											<Child18 Name="link_ServiceCatalog" Key="{6C12BADB-B24B-4E40-9F98-0528D4FB0EBC}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="89" />
+													<Property1 Name="idStr" Cookie="90" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child18>
+											<Child19 Name="link_Problems" Key="{165E20BE-25B6-4657-A0A4-989441A40967}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="91" />
+													<Property1 Name="idStr" Cookie="92" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child19>
+											<Child20 Name="link_KnowledgeBase" Key="{9015CDFF-3646-487C-8B78-0D13CF382EEA}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="93" />
+													<Property1 Name="idStr" Cookie="94" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child20>
 										</Children>
 										<TypeInfo Item0="3" />
 									</Child1>
@@ -199,6 +327,22 @@
 				<Child2 Name="link_Requests" Owner="{6108ED5C-5390-4605-8728-E92DD95E1C54}" />
 				<Child3 Name="link_Portfolios" Owner="{20FA8CD6-B802-40E6-B31F-4714250C3588}" />
 				<Child4 Name="link_Projects" Owner="{7B3ED46E-905F-4B4B-A9E4-6F1538E11918}" />
+				<Child5 Name="link_Tasks" Owner="{DFF667C5-3E85-43FD-B4E9-2B1FFB07927B}" />
+				<Child6 Name="link_Risks" Owner="{39F7DA9A-A9AD-4F21-8F1F-5555E1CB68D7}" />
+				<Child7 Name="link_Issues" Owner="{C11FE931-12CC-4DE4-B75E-47EEF300D61F}" />
+				<Child8 Name="link_Changes" Owner="{931950CA-3E9D-4568-B2A2-D4420ED55F7A}" />
+				<Child9 Name="link_Documents" Owner="{D062E769-882A-4A13-B3DD-72F41E8D6C7E}" />
+				<Child10 Name="link_Resources" Owner="{56EC0703-440C-4D64-8D05-6DFBE2B43F13}" />
+				<Child11 Name="link_Reports" Owner="{0FA994DF-C558-4943-8747-BCA9E3DA6FF7}" />
+				<Child12 Name="link_ServiceRequests" Owner="{BDDC4F51-8A99-4CD8-8DCB-969507287AE0}" />
+				<Child13 Name="link_Software" Owner="{A4290745-1CC1-49C3-83F9-30E571B9BF71}" />
+				<Child14 Name="link_Features" Owner="{95E161BA-003C-476C-A25A-129323B7035C}" />
+				<Child15 Name="link_Backlog" Owner="{9899F1A6-811F-4158-B40B-276B3FB3C4F4}" />
+				<Child16 Name="link_Whiteboard" Owner="{00E76FC4-A8CA-4788-91F6-E1939EF46A1D}" />
+				<Child17 Name="link_TestCases" Owner="{A3EC565E-91C3-4213-AFFE-49033F9B183E}" />
+				<Child18 Name="link_ServiceCatalog" Owner="{6C12BADB-B24B-4E40-9F98-0528D4FB0EBC}" />
+				<Child19 Name="link_Problems" Owner="{165E20BE-25B6-4657-A0A4-989441A40967}" />
+				<Child20 Name="link_KnowledgeBase" Owner="{9015CDFF-3646-487C-8B78-0D13CF382EEA}" />
 			</Child2>
 		</Child0>
 	</LogicalNodes>
@@ -267,6 +411,38 @@
 			<Property60 Cookie="60" PropertyType="0" Value="EPMLiveNavt2" Type="5" />
 			<Property61 Cookie="61" PropertyType="0" Value="Link" Type="5" />
 			<Property62 Cookie="62" PropertyType="0" Value="EPMLiveNavt3" Type="5" />
+			<Property63 Cookie="63" PropertyType="0" Value="Link" Type="5" />
+			<Property64 Cookie="64" PropertyType="0" Value="EPMLiveNavt4" Type="5" />
+			<Property65 Cookie="65" PropertyType="0" Value="Link" Type="5" />
+			<Property66 Cookie="66" PropertyType="0" Value="EPMLiveNavt5" Type="5" />
+			<Property67 Cookie="67" PropertyType="0" Value="Link" Type="5" />
+			<Property68 Cookie="68" PropertyType="0" Value="EPMLiveNavt6" Type="5" />
+			<Property69 Cookie="69" PropertyType="0" Value="Link" Type="5" />
+			<Property70 Cookie="70" PropertyType="0" Value="EPMLiveNavt7" Type="5" />
+			<Property71 Cookie="71" PropertyType="0" Value="Link" Type="5" />
+			<Property72 Cookie="72" PropertyType="0" Value="EPMLiveNavt8" Type="5" />
+			<Property73 Cookie="73" PropertyType="0" Value="Link" Type="5" />
+			<Property74 Cookie="74" PropertyType="0" Value="EPMLiveNavt9" Type="5" />
+			<Property75 Cookie="75" PropertyType="0" Value="Link" Type="5" />
+			<Property76 Cookie="76" PropertyType="0" Value="EPMLiveNavt10" Type="5" />
+			<Property77 Cookie="77" PropertyType="0" Value="Link" Type="5" />
+			<Property78 Cookie="78" PropertyType="0" Value="EPMLiveNavt11" Type="5" />
+			<Property79 Cookie="79" PropertyType="0" Value="Link" Type="5" />
+			<Property80 Cookie="80" PropertyType="0" Value="EPMLiveNavt12" Type="5" />
+			<Property81 Cookie="81" PropertyType="0" Value="Link" Type="5" />
+			<Property82 Cookie="82" PropertyType="0" Value="EPMLiveNavt14" Type="5" />
+			<Property83 Cookie="83" PropertyType="0" Value="Link" Type="5" />
+			<Property84 Cookie="84" PropertyType="0" Value="EPMLiveNavt15" Type="5" />
+			<Property85 Cookie="85" PropertyType="0" Value="Link" Type="5" />
+			<Property86 Cookie="86" PropertyType="0" Value="EPMLiveNavt16" Type="5" />
+			<Property87 Cookie="87" PropertyType="0" Value="Link" Type="5" />
+			<Property88 Cookie="88" PropertyType="0" Value="EPMLiveNavt17" Type="5" />
+			<Property89 Cookie="89" PropertyType="0" Value="Link" Type="5" />
+			<Property90 Cookie="90" PropertyType="0" Value="EPMLiveNavt19" Type="5" />
+			<Property91 Cookie="91" PropertyType="0" Value="Link" Type="5" />
+			<Property92 Cookie="92" PropertyType="0" Value="EPMLiveNavt20" Type="5" />
+			<Property93 Cookie="93" PropertyType="0" Value="Link" Type="5" />
+			<Property94 Cookie="94" PropertyType="0" Value="EPMLiveNavt22" Type="5" />
 		</Child0>
 	</Storages>
 	<TypeInfo StoreCodeCompletion="1">
