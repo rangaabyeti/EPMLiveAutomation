@@ -21,7 +21,10 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="default project" type="S" value="{39A61DA2-51B4-4A65-85E7-F13839C74D17}"/>
+				<Prp name="default project" type="S" value="{30B3C1AC-E3A0-4D44-85DC-A3BA81FD1113}"/>
+			</Node>
+			<Node name="{30b3c1ac-e3a0-4d44-85dc-a3ba81fd1113}">
+				<Prp name="relpath" type="S" value="EPMLiveProject\EPMLiveProject.mds.tcLS"/>
 			</Node>
 			<Node name="{39a61da2-51b4-4a65-85e7-f13839c74d17}">
 				<Prp name="relpath" type="S" value="EMPLiveProject\EPMLiveProject.mds.tcLS"/>

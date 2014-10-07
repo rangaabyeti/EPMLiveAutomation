@@ -25,18 +25,18 @@
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="EMPLiveProject\EPMLiveProject.mds"/>
+					<Prp name="relpath" type="S" value="EPMLiveProject\EPMLiveProject.mds"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{39A61DA2-51B4-4A65-85E7-F13839C74D17}"/>
+				<Prp name="key" type="S" value="{30B3C1AC-E3A0-4D44-85DC-A3BA81FD1113}"/>
 				<Prp name="pluginname" type="S" value=""/>
 				<Prp name="type" type="S" value="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}"/>
 				<Prp name="typename" type="S" value="Project"/>
 			</Node>
 		</Node>
 		<Node name="files">
-			<Node name="empliveproject\epmliveproject.mds">
-				<Prp name="relpath" type="S" value="EMPLiveProject\EPMLiveProject.mds"/>
+			<Node name="epmliveproject\epmliveproject.mds">
+				<Prp name="relpath" type="S" value="EPMLiveProject\EPMLiveProject.mds"/>
 			</Node>
 		</Node>
 		<Node name="folders">
@@ -57,8 +57,8 @@
 					<Prp name="description" type="S" value=""/>
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="index" type="I" value="0"/>
-					<Prp name="key" type="S" value="{39A61DA2-51B4-4A65-85E7-F13839C74D17}"/>
-					<Prp name="stoponerror" type="B" value="0"/>
+					<Prp name="key" type="S" value="{30B3C1AC-E3A0-4D44-85DC-A3BA81FD1113}"/>
+					<Prp name="stoponerror" type="B" value="-1"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
 			</Node>

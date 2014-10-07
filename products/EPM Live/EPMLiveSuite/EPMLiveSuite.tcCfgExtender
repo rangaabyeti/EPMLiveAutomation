@@ -25,7 +25,7 @@
 				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
 			</Node>
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{39A61DA2-51B4-4A65-85E7-F13839C74D17}"/>
+				<Prp name="activity" type="S" value="{30B3C1AC-E3A0-4D44-85DC-A3BA81FD1113}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
 				<Node name="{2fe9cd75-9fe5-4df0-9ae8-1c0fa125187c}">
@@ -36,12 +36,12 @@
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
-							<Prp name="editor" type="S" value="{BD737025-9C0A-464B-AB85-04F37E227ABE}"/>
-							<Prp name="focused" type="S" value="{53D58DD5-C7DC-40FB-B3D9-356FC409A53C}"/>
+							<Prp name="editor" type="S" value="{61482788-72AD-400C-88C9-314129D5CDFD}"/>
+							<Prp name="focused" type="S" value="{35FDBE62-D2E2-4EE4-9139-F3D921624324}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{25C37806-ADF4-46DA-8ACE-9899FCA45EC6}"/>
 					</Node>
-					<Prp name="docking" type="H" value="617162696E25AE1601000000CA0100007801730C74F177F6E662800231206DC1C2C0E0CA0413C14737324264EF783F7BEFDEFAD17971E7F52BA56F6439193D8012CC40B97541FF76F044C7384D64B08F63CEFFE42F0914AF068A07B23230ACC2B40268317EF01F0A0E01CD3901548ACEC7AF1BE4DA955025AA05C57BB9E678BBAD6E65F95CA754B54F0628391D28E70374D932649781822698A1842191A108482A30040059E90CA940511ABB16EA50A22900A6B347CE"/>
+					<Prp name="docking" type="H" value="617162696EB5EF1001000000CA0100007801730C74F177F6E662800231201DC9C2C0E0CA0413C14737324264EF783F7BEFDEFAD17971E7F52BA56F6439193D8012CC40B97B15F16D37E5959DE66E559E53DCBB5FFC0750AC1A880359191856615A01B4183FF80F058780E69F002A45E7E3D70D72ED4AA8920E758FC4B5453C0E1D270D1D35AF9EFDFB1B283E1D887D802E5B86EC3250D0043394302432140149058600202B9D2115284A63D7026D200900002D3E4AE1"/>
 					<Prp name="editorscount" type="I" value="1"/>
 					<Prp name="enabled" type="B" value="-1"/>
 				</Node>
@@ -60,18 +60,23 @@
 						<Prp name="collapsed" type="B" value="0"/>
 						<Prp name="top" type="I" value="0"/>
 					</Node>
+					<Node name="{8001b712-6609-4de0-be6d-950576ea237a}">
+						<Prp name="bottom" type="I" value="240"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
 					<Node name="{833f8c75-d156-40bf-a205-87a04e647b78}">
-						<Prp name="bottom" type="I" value="227"/>
+						<Prp name="bottom" type="I" value="149"/>
 						<Prp name="collapsed" type="B" value="0"/>
 						<Prp name="top" type="I" value="0"/>
 					</Node>
 					<Node name="{8686cddc-e234-4166-8214-b872a1919e52}">
-						<Prp name="bottom" type="I" value="13"/>
+						<Prp name="bottom" type="I" value="15"/>
 						<Prp name="collapsed" type="B" value="0"/>
 						<Prp name="top" type="I" value="0"/>
 					</Node>
 					<Node name="{a5b8da97-2b05-45c7-b91a-6ab6c81cbba7}">
-						<Prp name="bottom" type="I" value="75"/>
+						<Prp name="bottom" type="I" value="82"/>
 						<Prp name="collapsed" type="B" value="0"/>
 						<Prp name="top" type="I" value="0"/>
 					</Node>
@@ -88,9 +93,7 @@
 				</Node>
 			</Node>
 			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
-				<Node name="epmlivesuite">
-					<Node name="epmliveproject"/>
-				</Node>
+				<Node name="epmlivesuite"/>
 				<Node name="epmlivesuite logs"/>
 			</Node>
 		</Node>
