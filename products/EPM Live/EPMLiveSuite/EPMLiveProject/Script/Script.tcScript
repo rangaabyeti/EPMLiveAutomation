@@ -60,6 +60,16 @@
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
+			<Node name="item0000000004">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Projects.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="key" type="S" value="{4EDFB881-92F5-4F66-9DF2-1B79B818E4FA}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
 		</Node>
 		<Node name="folders">
 			<Node name="folders">
@@ -121,6 +131,10 @@
 									<Prp name="index" type="I" value="0"/>
 									<Prp name="key" type="S" value="{8001B712-6609-4DE0-BE6D-950576EA237A}"/>
 								</Node>
+								<Node name="ref0000000001">
+									<Prp name="index" type="I" value="1"/>
+									<Prp name="key" type="S" value="{4EDFB881-92F5-4F66-9DF2-1B79B818E4FA}"/>
+								</Node>
 							</Node>
 							<Prp name="caption" type="S" value="Navigation"/>
 							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
@@ -150,6 +164,14 @@
 							<Prp name="caption" type="S" value="Favorites"/>
 							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
 							<Prp name="index" type="I" value="0"/>
+							<Prp name="moniker" type="S" value=""/>
+						</Node>
+						<Node name="folder0000000001">
+							<Node name="folders"/>
+							<Node name="references"/>
+							<Prp name="caption" type="S" value="Navigation"/>
+							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+							<Prp name="index" type="I" value="1"/>
 							<Prp name="moniker" type="S" value=""/>
 						</Node>
 					</Node>
