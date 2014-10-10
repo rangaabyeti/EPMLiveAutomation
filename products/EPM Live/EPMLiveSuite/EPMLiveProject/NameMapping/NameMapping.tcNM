@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="148">
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="181">
 	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
 		<Properties />
 		<Children>
@@ -482,35 +482,119 @@
 										</Children>
 										<TypeInfo Item0="3" />
 									</Child4>
-									<Child5 Name="Pramod" Key="{7DE5A3A5-988C-4D3B-A753-F39362F87461}" ExtendedFind="True" ParallelWalk="True">
-										<Properties>
-											<Property0 Name="ObjectType" Cookie="139" />
-											<Property1 Name="idStr" Cookie="140" />
-										</Properties>
-										<Children>
-											<Child0 Name="Pramod" Key="{4A6657CC-CA95-46D3-A89E-1EC2A89AEBD5}" ExtendedFind="True" ParallelWalk="True">
-												<Properties>
-													<Property0 Name="ObjectType" Cookie="141" />
-													<Property1 Name="ObjectIdentifier" Cookie="142" />
-													<Property2 Name="tagName" Cookie="143" />
-												</Properties>
-												<Children />
-												<TypeInfo Item0="10" />
-											</Child0>
-										</Children>
-										<TypeInfo Item0="3" />
-									</Child5>
-									<Child6 Name="panel_PageTitle" Key="{58FC43FF-BD70-4D9C-BAD9-F29064D994AB}" ExtendedFind="True" ParallelWalk="True">
+									<Child5 Name="panel_PageTitle" Key="{58FC43FF-BD70-4D9C-BAD9-F29064D994AB}" ExtendedFind="True" ParallelWalk="True">
 										<Properties>
 											<Property0 Name="ObjectType" Cookie="144" />
 											<Property1 Name="idStr" Cookie="145" />
 										</Properties>
 										<Children />
 										<TypeInfo Item0="3" />
+									</Child5>
+									<Child6 Name="panel_ResourcePlanner" Key="{5402C87B-2FDC-48F2-93E2-C00892101841}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property0 Name="ObjectType" Cookie="150" />
+											<Property1 Name="ObjectIdentifier" Cookie="151" />
+										</Properties>
+										<Children>
+											<Child0 Name="panel_InvalidResource" Key="{D75CAC54-14A4-4AF1-A67C-FF32B0E572B3}" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="152" />
+													<Property1 Name="ObjectIdentifier" Cookie="153" />
+												</Properties>
+												<Children>
+													<Child0 Name="button_Forward" Key="{2FCD81B9-FF1D-4CD4-A421-09BEDD2040F9}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="159" />
+															<Property1 Name="ObjectIdentifier" Cookie="160" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="5" />
+													</Child0>
+													<Child1 Name="button_Close" Key="{2AE8F414-E5B4-4392-BDB1-A2D08AC78BBC}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="161" />
+															<Property1 Name="ObjectIdentifier" Cookie="162" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="5" />
+													</Child1>
+												</Children>
+												<TypeInfo Item0="3" />
+											</Child0>
+											<Child1 Name="panelDhxtabbarobjQ1m0uxqlmsgt" Key="{B709A5A1-CD75-4883-B1E8-ED06CEB50613}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="163" />
+													<Property1 Name="idStr" Cookie="164" />
+												</Properties>
+												<Children>
+													<Child0 Name="panel" Key="{E6DF5B64-2813-4A4B-88FD-669F005E0929}" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="165" />
+															<Property1 Name="ObjectIdentifier" Cookie="166" />
+														</Properties>
+														<Children>
+															<Child0 Name="panel" Key="{393B1E02-4FC1-4D4B-9164-87CC9E551951}" ParallelWalk="True">
+																<Properties>
+																	<Property0 Name="ObjectType" Cookie="167" />
+																	<Property1 Name="ObjectIdentifier" Cookie="168" />
+																</Properties>
+																<Children>
+																	<Child0 Name="panel" Key="{479B310C-3467-4E69-9BAF-15A6583E0306}" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="169" />
+																			<Property1 Name="ObjectIdentifier" Cookie="170" />
+																		</Properties>
+																		<Children>
+																			<Child0 Name="panel_EditorTab" Key="{7BA2903D-E698-4BE1-A734-4585BE260279}" ParallelWalk="True">
+																				<Properties>
+																					<Property0 Name="ObjectType" Cookie="171" />
+																					<Property1 Name="ObjectIdentifier" Cookie="172" />
+																				</Properties>
+																				<Children />
+																				<TypeInfo Item0="3" />
+																			</Child0>
+																			<Child1 Name="panel_ViewTab" Key="{ED18C5F2-3568-46EA-877B-B204EB823A6A}" ParallelWalk="True">
+																				<Properties>
+																					<Property0 Name="ObjectType" Cookie="175" />
+																					<Property1 Name="ObjectIdentifier" Cookie="176" />
+																				</Properties>
+																				<Children />
+																				<TypeInfo Item0="3" />
+																			</Child1>
+																		</Children>
+																		<TypeInfo Item0="3" />
+																	</Child0>
+																</Children>
+																<TypeInfo Item0="3" />
+															</Child0>
+														</Children>
+														<TypeInfo Item0="3" />
+													</Child0>
+												</Children>
+												<TypeInfo Item0="3" />
+											</Child1>
+											<Child2 Name="link_CloseButton" Key="{BE042AB5-524A-436B-BF67-69F15CC9D59F}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="179" />
+													<Property1 Name="idStr" Cookie="180" />
+												</Properties>
+												<Children />
+												<TypeInfo Item0="10" />
+											</Child2>
+										</Children>
+										<TypeInfo Item0="3" />
 									</Child6>
 								</Children>
 								<TypeInfo Item0="3" />
 							</Child2>
+							<Child3 Name="BrowserWindow" Key="{47D84FD0-607D-485B-88C2-31B5BF0BDE89}" ParallelWalk="True">
+								<Properties>
+									<Property0 Name="ObjectType" Cookie="148" />
+									<Property1 Name="ObjectIdentifier" Cookie="149" />
+								</Properties>
+								<Children />
+								<TypeInfo Item0="1" />
+							</Child3>
 						</Children>
 						<TypeInfo Item0="0" />
 					</Child0>
@@ -572,11 +656,18 @@
 			<Child7 Name="ribbonItem_EditResourcePlan" Owner="{759C0961-FF71-43F9-BD8C-2062C6944C6D}" />
 			<Child8 Name="textnode_ListTab" Owner="{19479AAC-721D-4A9A-AC63-519668A16AAB}" />
 			<Child9 Name="textnode_HideTab" Owner="{9DE94DF0-FF41-44FA-9FD7-91A1EC071A35}" />
-			<Child10 Name="Pramod" Owner="{7DE5A3A5-988C-4D3B-A753-F39362F87461}">
-				<Child0 Name="Pramod" Owner="{4A6657CC-CA95-46D3-A89E-1EC2A89AEBD5}" />
-			</Child10>
-			<Child11 Name="panel_PageTitle" Owner="{58FC43FF-BD70-4D9C-BAD9-F29064D994AB}" />
-			<Child12 Name="ribbonItem_ViewItem" Owner="{C6B83D7D-9D70-4294-B74B-D8875D720A8C}" />
+			<Child10 Name="panel_PageTitle" Owner="{58FC43FF-BD70-4D9C-BAD9-F29064D994AB}" />
+			<Child11 Name="ribbonItem_ViewItem" Owner="{C6B83D7D-9D70-4294-B74B-D8875D720A8C}" />
+			<Child12 Name="BrowserWindow" Owner="{47D84FD0-607D-485B-88C2-31B5BF0BDE89}" />
+			<Child13 Name="panel_ResourcePlanner" Owner="{5402C87B-2FDC-48F2-93E2-C00892101841}">
+				<Child0 Name="panel_InvalidResource" Owner="{D75CAC54-14A4-4AF1-A67C-FF32B0E572B3}">
+					<Child0 Name="button_Forward" Owner="{2FCD81B9-FF1D-4CD4-A421-09BEDD2040F9}" />
+					<Child1 Name="button_Close" Owner="{2AE8F414-E5B4-4392-BDB1-A2D08AC78BBC}" />
+				</Child0>
+				<Child1 Name="panel_EditorTab" Owner="{7BA2903D-E698-4BE1-A734-4585BE260279}" />
+				<Child2 Name="panel_ViewTab" Owner="{ED18C5F2-3568-46EA-877B-B204EB823A6A}" />
+				<Child3 Name="link_CloseButton" Owner="{BE042AB5-524A-436B-BF67-69F15CC9D59F}" />
+			</Child13>
 		</Child0>
 	</LogicalNodes>
 	<Storages Current="0">
@@ -729,6 +820,39 @@
 			<Property145 Cookie="145" PropertyType="0" Value="page-title" Type="5" />
 			<Property146 Cookie="146" PropertyType="0" Value="Link" Type="5" />
 			<Property147 Cookie="147" PropertyType="0" Value="Ribbon.ListItem.Manage.ViewProperties-Large" Type="5" />
+			<Property148 Cookie="148" PropertyType="0" Value="BrowserWindow" Type="5" />
+			<Property149 Cookie="149" PropertyType="0" Value="0" Type="0" />
+			<Property150 Cookie="150" PropertyType="0" Value="Panel" Type="5" />
+			<Property151 Cookie="151" PropertyType="0" Value="PlaceHolderMain_ctl00layoutDiv" Type="5" />
+			<Property152 Cookie="152" PropertyType="0" Value="Panel" Type="5" />
+			<Property153 Cookie="153" PropertyType="0" Value="4" Type="0" />
+			<Property154 Cookie="154" PropertyType="0" Value="Panel" Type="5" />
+			<Property155 Cookie="155" PropertyType="0" Value="4" Type="0" />
+			<Property156 Cookie="156" PropertyType="0" Value="" Type="5" />
+			<Property157 Cookie="157" PropertyType="0" Value="Panel" Type="5" />
+			<Property158 Cookie="158" PropertyType="0" Value="0" Type="0" />
+			<Property159 Cookie="159" PropertyType="0" Value="Button" Type="5" />
+			<Property160 Cookie="160" PropertyType="0" Value="Forward" Type="5" />
+			<Property161 Cookie="161" PropertyType="0" Value="Button" Type="5" />
+			<Property162 Cookie="162" PropertyType="0" Value="Close" Type="5" />
+			<Property163 Cookie="163" PropertyType="0" Value="Panel" Type="5" />
+			<Property164 Cookie="164" PropertyType="0" Value="dhxTabbarObj_Q1M0uXqlmsgt" Type="5" />
+			<Property165 Cookie="165" PropertyType="0" Value="Panel" Type="5" />
+			<Property166 Cookie="166" PropertyType="0" Value="0" Type="0" />
+			<Property167 Cookie="167" PropertyType="0" Value="Panel" Type="5" />
+			<Property168 Cookie="168" PropertyType="0" Value="0" Type="0" />
+			<Property169 Cookie="169" PropertyType="0" Value="Panel" Type="5" />
+			<Property170 Cookie="170" PropertyType="0" Value="0" Type="0" />
+			<Property171 Cookie="171" PropertyType="0" Value="Panel" Type="5" />
+			<Property172 Cookie="172" PropertyType="0" Value="0" Type="0" />
+			<Property173 Cookie="173" PropertyType="0" Value="Panel" Type="5" />
+			<Property174 Cookie="174" PropertyType="0" Value="2" Type="0" />
+			<Property175 Cookie="175" PropertyType="0" Value="Panel" Type="5" />
+			<Property176 Cookie="176" PropertyType="0" Value="1" Type="0" />
+			<Property177 Cookie="177" PropertyType="0" Value="Panel" Type="5" />
+			<Property178 Cookie="178" PropertyType="0" Value="2" Type="0" />
+			<Property179 Cookie="179" PropertyType="0" Value="Link" Type="5" />
+			<Property180 Cookie="180" PropertyType="0" Value="CloseBtn" Type="5" />
 		</Child0>
 	</Storages>
 	<TypeInfo StoreCodeCompletion="1">
