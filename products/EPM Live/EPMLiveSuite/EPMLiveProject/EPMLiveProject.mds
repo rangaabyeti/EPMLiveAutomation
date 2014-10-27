@@ -58,7 +58,7 @@
 					<Prp name="relpath" type="S" value="NameMapping\NameMapping.tcNM"/>
 				</Node>
 				<Prp name="index" type="I" value="3"/>
-				<Prp name="key" type="S" value="{3887A505-AADD-4688-94BF-69DC1A857766}"/>
+				<Prp name="key" type="S" value="{E46817D3-6B6B-4239-BD29-51785C430C4F}"/>
 				<Prp name="pluginname" type="S" value="NameMapping"/>
 				<Prp name="type" type="S" value="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}"/>
 				<Prp name="typename" type="S" value="Name Mapping"/>
@@ -1168,7 +1168,7 @@
 				<Prp name="val1x0" type="S" value="*"/>
 			</Node>
 			<Prp name="key" type="S" value="{CC5128B7-C57B-44A1-BC8F-6A67FA4D236D}"/>
-			<Prp name="settingsversion" type="S" value="10.40"/>
+			<Prp name="settingsversion" type="S" value="10.30"/>
 		</Node>
 		<Node name="test data">
 			<Node name="child list"/>
