@@ -1168,7 +1168,7 @@
 				<Prp name="val1x0" type="S" value="*"/>
 			</Node>
 			<Prp name="key" type="S" value="{CC5128B7-C57B-44A1-BC8F-6A67FA4D236D}"/>
-			<Prp name="settingsversion" type="S" value="10.30"/>
+			<Prp name="settingsversion" type="S" value="10.40"/>
 		</Node>
 		<Node name="test data">
 			<Node name="child list"/>
