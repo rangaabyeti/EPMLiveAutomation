@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="181">
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="4" Cookie="328">
 	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
 		<Properties />
 		<Children>
@@ -584,6 +584,549 @@
 										</Children>
 										<TypeInfo Item0="3" />
 									</Child6>
+									<Child7 Name="panelWebpartwpq2" Key="{E21D65FA-C560-4325-B505-12EFCAB3F8EA}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property0 Name="ObjectType" Cookie="191" />
+											<Property1 Name="idStr" Cookie="192" />
+										</Properties>
+										<Children>
+											<Child0 Name="table" Key="{85EF938E-B42D-487D-9FDB-5F742013617E}" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="193" />
+													<Property1 Name="ObjectIdentifier" Cookie="194" />
+												</Properties>
+												<Children>
+													<Child0 Name="cell" Key="{B9069F57-C44E-49FA-BF12-22BEED920048}" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="195" />
+															<Property1 Name="RowIndex" Cookie="196" />
+															<Property2 Name="ColumnIndex" Cookie="197" />
+														</Properties>
+														<Children>
+															<Child0 Name="panel" Key="{BCE76DE7-5AF9-404C-8451-CF00CE9003C6}" ParallelWalk="True">
+																<Properties>
+																	<Property0 Name="ObjectType" Cookie="198" />
+																	<Property1 Name="ObjectIdentifier" Cookie="199" />
+																</Properties>
+																<Children>
+																	<Child0 Name="panel_User" Key="{6421406C-10CF-4F51-BF9B-B5BFF1C548E1}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="200" />
+																			<Property1 Name="ObjectIdentifier" Cookie="201" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="3" />
+																	</Child0>
+																	<Child1 Name="checkbox_GenericUser" Key="{C220EE4B-E794-48EB-98D5-00CB5E2EACF5}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="202" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="18" />
+																	</Child1>
+																	<Child2 Name="textbox_UserFirstName" Key="{D950E71A-DBAB-488C-B304-FABE10E13C05}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="203" />
+																			<Property1 Name="title" Cookie="204" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="4" />
+																	</Child2>
+																	<Child3 Name="textbox_UserLastName" Key="{FE44F7B0-0431-499B-A9DD-FAA64FA1F6CA}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="205" />
+																			<Property1 Name="title" Cookie="206" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="4" />
+																	</Child3>
+																	<Child4 Name="textbox_UserEmail" Key="{D85A6287-359E-4C93-896A-A587C534EB5C}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="207" />
+																			<Property1 Name="title" Cookie="208" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="4" />
+																	</Child4>
+																	<Child5 Name="textbox_UserDisplayName" Key="{ABF7DB9A-FE0D-4D9D-B521-7376DF7B8CB1}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="305" />
+																			<Property1 Name="title" Cookie="306" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="4" />
+																	</Child5>
+																</Children>
+																<TypeInfo Item0="3" />
+															</Child0>
+														</Children>
+														<TypeInfo Item0="17" />
+													</Child0>
+													<Child1 Name="cell2" Key="{2F1EAB53-BDBB-4694-A365-DA26596D3899}" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="209" />
+															<Property1 Name="RowIndex" Cookie="210" />
+															<Property2 Name="ColumnIndex" Cookie="211" />
+														</Properties>
+														<Children>
+															<Child0 Name="panel" Key="{D3723664-38F9-473A-AC2F-D57F27D3600B}" ParallelWalk="True">
+																<Properties>
+																	<Property0 Name="ObjectType" Cookie="212" />
+																	<Property1 Name="ObjectIdentifier" Cookie="213" />
+																</Properties>
+																<Children>
+																	<Child0 Name="panel_ProfileExpandCollapse" Key="{C0A0AD1F-D49B-48CB-98F6-B195F90E0AB5}" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="214" />
+																			<Property1 Name="ObjectIdentifier" Cookie="215" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="3" />
+																	</Child0>
+																	<Child1 Name="textbox_StandardRate" Key="{EDA6FC3B-868E-40EE-B619-49BDF8D68371}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="216" />
+																			<Property1 Name="title" Cookie="217" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="4" />
+																	</Child1>
+																	<Child2 Name="image_DepartmentButtonDropDown" Key="{7B132D65-DDB2-4739-B494-8D8FC1988808}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="218" />
+																			<Property1 Name="idStr" Cookie="219" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="3" />
+																	</Child2>
+																	<Child3 Name="panel" Key="{36195BF1-116D-4214-8581-566627CCCEFA}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="220" />
+																			<Property1 Name="ObjectIdentifier" Cookie="221" />
+																		</Properties>
+																		<Children>
+																			<Child0 Name="table" Key="{70BEF3C1-D901-4006-BF79-4F89F8A2DFBD}" ParallelWalk="True">
+																				<Properties>
+																					<Property0 Name="ObjectType" Cookie="222" />
+																				</Properties>
+																				<Children>
+																					<Child0 Name="cell" Key="{2A381714-D845-4FD6-86E3-A86A6720264E}" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="223" />
+																							<Property1 Name="RowIndex" Cookie="224" />
+																							<Property2 Name="ColumnIndex" Cookie="225" />
+																						</Properties>
+																						<Children>
+																							<Child0 Name="image_DepartmentAddItem" Key="{44C45003-F1A9-42B4-831F-A55CA3777EBE}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="226" />
+																									<Property1 Name="ObjectIdentifier" Cookie="227" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child0>
+																							<Child1 Name="image_DepartmentBrowse" Key="{FEF1455E-1ED5-4997-BC4E-00F1E7F584EC}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="228" />
+																									<Property1 Name="ObjectIdentifier" Cookie="229" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child1>
+																							<Child2 Name="panel_DepartmentTextbox" Key="{6D9DF832-21E5-49D2-92DE-8F047CBDCA66}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="230" />
+																								</Properties>
+																								<Children>
+																									<Child0 Name="panel_DepartmentDropList" Key="{E8AFAF02-9F3A-4308-A962-72FD97613A55}" ExtendedFind="True" ParallelWalk="True">
+																										<Properties>
+																											<Property0 Name="ObjectType" Cookie="231" />
+																										</Properties>
+																										<Children />
+																										<TypeInfo Item0="3" />
+																									</Child0>
+																								</Children>
+																								<TypeInfo Item0="3" />
+																							</Child2>
+																						</Children>
+																						<TypeInfo Item0="17" />
+																					</Child0>
+																					<Child1 Name="cell2" Key="{1C92ED0D-175A-4C69-B0BD-445707F2E3C6}" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="232" />
+																							<Property1 Name="RowIndex" Cookie="233" />
+																							<Property2 Name="ColumnIndex" Cookie="234" />
+																						</Properties>
+																						<Children>
+																							<Child0 Name="panel_UserRoleTextbox" Key="{4AC6B86F-ABA2-47AD-B16E-C8782E6DF54A}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="235" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child0>
+																							<Child1 Name="image_RoleDropDownButton" Key="{3A5CB62B-7229-4B94-8B88-CE772485933E}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="236" />
+																									<Property1 Name="idStr" Cookie="237" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child1>
+																							<Child2 Name="image_RoleBrowseButton" Key="{57EA60D7-0A60-42A6-8384-68F4550DFB49}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="238" />
+																									<Property1 Name="ObjectIdentifier" Cookie="239" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child2>
+																							<Child3 Name="image_RoleAddItemButton" Key="{8FFF7F87-E55F-413D-98A6-DDFD7883456C}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="240" />
+																									<Property1 Name="ObjectIdentifier" Cookie="241" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child3>
+																						</Children>
+																						<TypeInfo Item0="17" />
+																					</Child1>
+																					<Child2 Name="cell3" Key="{D86AF778-EEAF-4955-B180-7D5730049C68}" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="242" />
+																							<Property1 Name="RowIndex" Cookie="243" />
+																							<Property2 Name="ColumnIndex" Cookie="244" />
+																						</Properties>
+																						<Children>
+																							<Child0 Name="panel_HolidayScheduleTextbox" Key="{ADFABE11-6C14-4192-B849-AD5E6A1C32B8}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="245" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child0>
+																							<Child1 Name="image_HolidayScheduleDropDownButton" Key="{671204BA-01CC-43F8-8181-2F15112BD9BF}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="246" />
+																									<Property1 Name="idStr" Cookie="247" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child1>
+																							<Child2 Name="image_HolidayScheduleAddItemButton" Key="{3F401B21-037C-4E6D-BFF9-CAE486E93A30}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="248" />
+																									<Property1 Name="ObjectIdentifier" Cookie="249" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child2>
+																							<Child3 Name="image_HolidayScheduleBrowseButton" Key="{17B17F75-A18F-4542-ABF5-5FC976834359}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="250" />
+																									<Property1 Name="ObjectIdentifier" Cookie="251" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child3>
+																						</Children>
+																						<TypeInfo Item0="17" />
+																					</Child2>
+																					<Child3 Name="cell4" Key="{52D65DFC-4551-41E4-A2C4-0DBF1D06C584}" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="252" />
+																							<Property1 Name="RowIndex" Cookie="253" />
+																							<Property2 Name="ColumnIndex" Cookie="254" />
+																						</Properties>
+																						<Children>
+																							<Child0 Name="panel_WorkHoursTextbox" Key="{69A37CFE-1961-47E4-B93C-610BCFD3C485}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="255" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child0>
+																							<Child1 Name="image_WorkhoursDropDownButton" Key="{C5D758A8-82D7-4D02-BD9B-8165E85AE442}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="256" />
+																									<Property1 Name="idStr" Cookie="257" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child1>
+																							<Child2 Name="image_WorkHourBrowseButton" Key="{770484FD-3B5F-4425-9941-31D95A9439B8}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="258" />
+																									<Property1 Name="ObjectIdentifier" Cookie="259" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child2>
+																							<Child3 Name="image_WorkHourAddItemButton" Key="{E4D4C9AB-9091-400D-9E6D-B932BB985403}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="260" />
+																									<Property1 Name="ObjectIdentifier" Cookie="261" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child3>
+																						</Children>
+																						<TypeInfo Item0="17" />
+																					</Child3>
+																					<Child4 Name="textbox_AvailableFromDate" Key="{3EDE61E0-3A7A-45F8-854A-41AE0848FD35}" ExtendedFind="True" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="262" />
+																							<Property1 Name="ObjectLabel" Cookie="263" />
+																						</Properties>
+																						<Children />
+																						<TypeInfo Item0="4" />
+																					</Child4>
+																					<Child5 Name="cell5" Key="{A332B9EA-FC19-4BCD-8AFB-F1908A2B633D}" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="264" />
+																							<Property1 Name="RowIndex" Cookie="265" />
+																							<Property2 Name="ColumnIndex" Cookie="266" />
+																						</Properties>
+																						<Children>
+																							<Child0 Name="image_AvailableFromCalendarButton" Key="{CC518DD1-E5CD-40AF-AD2C-B3B78E23DC72}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="267" />
+																									<Property1 Name="ObjectIdentifier" Cookie="268" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child0>
+																						</Children>
+																						<TypeInfo Item0="17" />
+																					</Child5>
+																					<Child6 Name="textbox_AvailableToDate" Key="{5C493C31-B63C-4069-B75E-94C56BEBC5C8}" ExtendedFind="True" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="269" />
+																							<Property1 Name="ObjectLabel" Cookie="270" />
+																						</Properties>
+																						<Children />
+																						<TypeInfo Item0="4" />
+																					</Child6>
+																					<Child7 Name="cell6" Key="{C8F06EB0-750E-4575-BE53-5FEC74921DA7}" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="271" />
+																							<Property1 Name="RowIndex" Cookie="272" />
+																							<Property2 Name="ColumnIndex" Cookie="273" />
+																						</Properties>
+																						<Children>
+																							<Child0 Name="image_AvailableToCalendarButton" Key="{44B3EDF3-E193-445D-B385-2A932ED7DC32}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property0 Name="ObjectType" Cookie="274" />
+																									<Property1 Name="ObjectIdentifier" Cookie="275" />
+																								</Properties>
+																								<Children />
+																								<TypeInfo Item0="3" />
+																							</Child0>
+																						</Children>
+																						<TypeInfo Item0="17" />
+																					</Child7>
+																					<Child8 Name="panel_TimesheetDelegatesTextBox" Key="{C4B055E5-8ED2-4374-8AF2-B379F7C822A1}" ExtendedFind="True" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="276" />
+																							<Property1 Name="title" Cookie="277" />
+																						</Properties>
+																						<Children />
+																						<TypeInfo Item0="3" />
+																					</Child8>
+																					<Child9 Name="panel_TimesheetManagerTextbox" Key="{A96360FC-364E-4C3E-8900-C5606A9EC2F3}" ExtendedFind="True" ParallelWalk="True">
+																						<Properties>
+																							<Property0 Name="ObjectType" Cookie="278" />
+																							<Property1 Name="title" Cookie="279" />
+																						</Properties>
+																						<Children />
+																						<TypeInfo Item0="3" />
+																					</Child9>
+																				</Children>
+																				<TypeInfo Item0="16" />
+																			</Child0>
+																		</Children>
+																		<TypeInfo Item0="3" />
+																	</Child3>
+																</Children>
+																<TypeInfo Item0="3" />
+															</Child0>
+														</Children>
+														<TypeInfo Item0="17" />
+													</Child1>
+													<Child2 Name="cell3" Key="{5A9C11FF-B14F-4FBF-9803-F926297F6989}" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="280" />
+															<Property1 Name="RowIndex" Cookie="281" />
+															<Property2 Name="ColumnIndex" Cookie="282" />
+														</Properties>
+														<Children>
+															<Child0 Name="panel" Key="{4F3DA683-5D48-4DC1-BA1E-8A1E5FC37B47}" ParallelWalk="True">
+																<Properties>
+																	<Property0 Name="ObjectType" Cookie="283" />
+																	<Property1 Name="ObjectIdentifier" Cookie="284" />
+																</Properties>
+																<Children>
+																	<Child0 Name="panel_PermissionsExpandCollapse" Key="{15891381-AC62-465E-9EAF-15154850048B}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="285" />
+																			<Property1 Name="ObjectIdentifier" Cookie="286" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="3" />
+																	</Child0>
+																	<Child1 Name="table_UserPermissions" Key="{A2F5D5B8-5087-4B43-8307-BC51D46ADF0F}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="287" />
+																			<Property1 Name="ObjectIdentifier" Cookie="288" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="16" />
+																	</Child1>
+																	<Child2 Name="table_UserLicenseType" Key="{479EC1BD-457D-46AF-95CC-35A4D6840BE2}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="289" />
+																			<Property1 Name="ObjectIdentifier" Cookie="290" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="16" />
+																	</Child2>
+																	<Child3 Name="checkbox_TimesheetAdministrator" Key="{2D5DECFB-B970-4DC8-AFB7-D839FE40BE2F}" ExtendedFind="True" ParallelWalk="True">
+																		<Properties>
+																			<Property0 Name="ObjectType" Cookie="291" />
+																			<Property1 Name="ObjectLabel" Cookie="292" />
+																		</Properties>
+																		<Children />
+																		<TypeInfo Item0="18" />
+																	</Child3>
+																</Children>
+																<TypeInfo Item0="3" />
+															</Child0>
+														</Children>
+														<TypeInfo Item0="17" />
+													</Child2>
+													<Child3 Name="textbox_DepartmentTitle" Key="{E607D1E0-4C03-4C65-8F17-222144333361}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="312" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="4" />
+													</Child3>
+													<Child4 Name="cell4" Key="{0C91AD4D-7A93-4A16-AC4A-4A139B1CCD3D}" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="313" />
+															<Property1 Name="RowIndex" Cookie="314" />
+															<Property2 Name="ColumnIndex" Cookie="315" />
+														</Properties>
+														<Children>
+															<Child0 Name="button_AddManagers" Key="{0C731829-9B49-4A16-A818-9754E22595EC}" ExtendedFind="True" ParallelWalk="True">
+																<Properties>
+																	<Property0 Name="ObjectType" Cookie="316" />
+																	<Property1 Name="ObjectIdentifier" Cookie="317" />
+																</Properties>
+																<Children />
+																<TypeInfo Item0="5" />
+															</Child0>
+															<Child1 Name="button_RemoveManagers" Key="{4563A8A9-E2AC-4377-8B06-7685415BE204}" ExtendedFind="True" ParallelWalk="True">
+																<Properties>
+																	<Property0 Name="ObjectType" Cookie="318" />
+																	<Property1 Name="ObjectIdentifier" Cookie="319" />
+																</Properties>
+																<Children />
+																<TypeInfo Item0="5" />
+															</Child1>
+														</Children>
+														<TypeInfo Item0="17" />
+													</Child4>
+													<Child5 Name="cell5" Key="{092B56D7-DA6D-430B-A58E-DCD2FFE9B06C}" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="320" />
+															<Property1 Name="RowIndex" Cookie="321" />
+															<Property2 Name="ColumnIndex" Cookie="322" />
+														</Properties>
+														<Children>
+															<Child0 Name="button_AddExecutives" Key="{65B3E246-4BA9-4A68-B2A5-F50EC580B871}" ExtendedFind="True" ParallelWalk="True">
+																<Properties>
+																	<Property0 Name="ObjectType" Cookie="323" />
+																	<Property1 Name="ObjectIdentifier" Cookie="324" />
+																</Properties>
+																<Children />
+																<TypeInfo Item0="5" />
+															</Child0>
+															<Child1 Name="button_RemoveExecutives" Key="{F57EE7C1-DABF-4E75-BC8E-B9596EE5990D}" ExtendedFind="True" ParallelWalk="True">
+																<Properties>
+																	<Property0 Name="ObjectType" Cookie="325" />
+																	<Property1 Name="ObjectIdentifier" Cookie="326" />
+																</Properties>
+																<Children />
+																<TypeInfo Item0="5" />
+															</Child1>
+														</Children>
+														<TypeInfo Item0="17" />
+													</Child5>
+													<Child6 Name="checkbox_Default" Key="{521E0CD9-FC45-4B2F-AF1F-0DE6BBFF0DB3}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="327" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="18" />
+													</Child6>
+												</Children>
+												<TypeInfo Item0="16" />
+											</Child0>
+											<Child1 Name="table2" Key="{D083356E-F0BC-47B0-800F-7C95BEBF23B7}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="293" />
+													<Property1 Name="ObjectIdentifier" Cookie="294" />
+												</Properties>
+												<Children>
+													<Child0 Name="button_SaveUser" Key="{131EE801-A864-4714-B799-7A82C24E35E6}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="295" />
+															<Property1 Name="ObjectIdentifier" Cookie="296" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="5" />
+													</Child0>
+													<Child1 Name="button_CancelUser" Key="{04EC2392-EAD6-427C-89EF-B5011338EDA5}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="301" />
+															<Property1 Name="ObjectIdentifier" Cookie="302" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="5" />
+													</Child1>
+												</Children>
+												<TypeInfo Item0="16" />
+											</Child1>
+											<Child2 Name="tableToolbartbltop" Key="{44915196-A314-489C-B963-E7124832EFBF}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="297" />
+													<Property1 Name="ObjectIdentifier" Cookie="298" />
+												</Properties>
+												<Children>
+													<Child0 Name="button_SaveItem" Key="{22FA5E75-BE8E-4B4B-9356-9CA1306D3F75}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="299" />
+															<Property1 Name="ObjectIdentifier" Cookie="300" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="5" />
+													</Child0>
+													<Child1 Name="button_CancelUser1" Key="{00C9A2CE-1421-49A7-9773-1A9EA239B739}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="303" />
+															<Property1 Name="ObjectIdentifier" Cookie="304" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="5" />
+													</Child1>
+												</Children>
+												<TypeInfo Item0="16" />
+											</Child2>
+										</Children>
+										<TypeInfo Item0="3" />
+									</Child7>
 								</Children>
 								<TypeInfo Item0="3" />
 							</Child2>
@@ -595,6 +1138,61 @@
 								<Children />
 								<TypeInfo Item0="1" />
 							</Child3>
+							<Child4 Name="pageApps22EpmliveComSitesAutomat" Key="{545FD8C1-5B7C-493B-883D-3344B0512E89}" ParallelWalk="True">
+								<Properties>
+									<Property0 Name="ObjectType" Cookie="181" />
+									<Property1 Name="URL" Cookie="182" />
+									<Property2 Name="ObjectGroupIndex" Cookie="183" />
+								</Properties>
+								<Children>
+									<Child0 Name="formAspnetform" Key="{79DF3698-A224-4529-95AB-0CA3E34AA760}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property0 Name="ObjectType" Cookie="184" />
+											<Property1 Name="idStr" Cookie="185" />
+										</Properties>
+										<Children>
+											<Child0 Name="panelResourcepooltoolbar" Key="{7714FF68-C974-4FA5-91A4-BF2D78587148}" ExtendedFind="True" ParallelWalk="True">
+												<Properties>
+													<Property0 Name="ObjectType" Cookie="186" />
+													<Property1 Name="idStr" Cookie="187" />
+												</Properties>
+												<Children>
+													<Child0 Name="link_InviteButton" Key="{0F4590F0-4EB5-407F-8865-4F463A91FE31}" ParallelWalk="True">
+														<Properties>
+															<Property0 Name="ObjectType" Cookie="188" />
+															<Property1 Name="href" Cookie="189" />
+															<Property2 Name="ObjectIdentifier" Cookie="190" />
+														</Properties>
+														<Children />
+														<TypeInfo Item0="10" />
+													</Child0>
+												</Children>
+												<TypeInfo Item0="3" />
+											</Child0>
+										</Children>
+										<TypeInfo Item0="3" />
+									</Child0>
+								</Children>
+								<TypeInfo Item0="2" />
+							</Child4>
+							<Child5 Name="page" Key="{43536DB7-315D-4FAB-A5C0-86B627A267E9}" ParallelWalk="True">
+								<Properties>
+									<Property0 Name="ObjectType" Cookie="307" />
+									<Property1 Name="URL" Cookie="308" />
+									<Property2 Name="ObjectGroupIndex" Cookie="309" />
+								</Properties>
+								<Children>
+									<Child0 Name="panel_AddNewDepartment" Key="{97FF2BBE-1518-4E9E-B13A-623C5E867909}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property0 Name="ObjectType" Cookie="310" />
+											<Property1 Name="FullName" Cookie="311" />
+										</Properties>
+										<Children />
+										<TypeInfo Item0="3" />
+									</Child0>
+								</Children>
+								<TypeInfo Item0="2" />
+							</Child5>
 						</Children>
 						<TypeInfo Item0="0" />
 					</Child0>
@@ -668,6 +1266,56 @@
 				<Child2 Name="panel_ViewTab" Owner="{ED18C5F2-3568-46EA-877B-B204EB823A6A}" />
 				<Child3 Name="link_CloseButton" Owner="{BE042AB5-524A-436B-BF67-69F15CC9D59F}" />
 			</Child13>
+			<Child14 Name="link_InviteButton" Owner="{0F4590F0-4EB5-407F-8865-4F463A91FE31}" />
+			<Child15 Name="panel_UserExpandCollapse" Owner="{6421406C-10CF-4F51-BF9B-B5BFF1C548E1}" />
+			<Child16 Name="checkbox_GenericUser" Owner="{C220EE4B-E794-48EB-98D5-00CB5E2EACF5}" />
+			<Child17 Name="textbox_UserFirstName" Owner="{D950E71A-DBAB-488C-B304-FABE10E13C05}" />
+			<Child18 Name="textbox_UserLastName" Owner="{FE44F7B0-0431-499B-A9DD-FAA64FA1F6CA}" />
+			<Child19 Name="textbox_UserEmail" Owner="{D85A6287-359E-4C93-896A-A587C534EB5C}" />
+			<Child20 Name="panel_ProfileExpandCollapse" Owner="{C0A0AD1F-D49B-48CB-98F6-B195F90E0AB5}" />
+			<Child21 Name="textbox_StandardRate" Owner="{EDA6FC3B-868E-40EE-B619-49BDF8D68371}" />
+			<Child22 Name="image_DepartmentButtonDropDown" Owner="{7B132D65-DDB2-4739-B494-8D8FC1988808}" />
+			<Child23 Name="image_DepartmentAddItem" Owner="{44C45003-F1A9-42B4-831F-A55CA3777EBE}" />
+			<Child24 Name="image_DepartmentBrowse" Owner="{FEF1455E-1ED5-4997-BC4E-00F1E7F584EC}" />
+			<Child25 Name="panel_DepartmentTextbox" Owner="{6D9DF832-21E5-49D2-92DE-8F047CBDCA66}">
+				<Child0 Name="panel_DepartmentDropList" Owner="{E8AFAF02-9F3A-4308-A962-72FD97613A55}" />
+			</Child25>
+			<Child26 Name="panel_UserRoleTextbox" Owner="{4AC6B86F-ABA2-47AD-B16E-C8782E6DF54A}" />
+			<Child27 Name="image_RoleDropDownButton" Owner="{3A5CB62B-7229-4B94-8B88-CE772485933E}" />
+			<Child28 Name="image_RoleBrowseButton" Owner="{57EA60D7-0A60-42A6-8384-68F4550DFB49}" />
+			<Child29 Name="image_RoleAddItemButton" Owner="{8FFF7F87-E55F-413D-98A6-DDFD7883456C}" />
+			<Child30 Name="panel_HolidayScheduleTextbox" Owner="{ADFABE11-6C14-4192-B849-AD5E6A1C32B8}" />
+			<Child31 Name="image_HolidayScheduleDropDownButton" Owner="{671204BA-01CC-43F8-8181-2F15112BD9BF}" />
+			<Child32 Name="image_HolidayScheduleAddItemButton" Owner="{3F401B21-037C-4E6D-BFF9-CAE486E93A30}" />
+			<Child33 Name="image_HolidayScheduleBrowseButton" Owner="{17B17F75-A18F-4542-ABF5-5FC976834359}" />
+			<Child34 Name="panel_WorkHoursTextbox" Owner="{69A37CFE-1961-47E4-B93C-610BCFD3C485}" />
+			<Child35 Name="image_WorkhoursDropDownButton" Owner="{C5D758A8-82D7-4D02-BD9B-8165E85AE442}" />
+			<Child36 Name="image_WorkHourBrowseButton" Owner="{770484FD-3B5F-4425-9941-31D95A9439B8}" />
+			<Child37 Name="image_WorkHourAddItemButton" Owner="{E4D4C9AB-9091-400D-9E6D-B932BB985403}" />
+			<Child38 Name="textbox_AvailableFromDate" Owner="{3EDE61E0-3A7A-45F8-854A-41AE0848FD35}" />
+			<Child39 Name="image_AvailableFromCalendarButton" Owner="{CC518DD1-E5CD-40AF-AD2C-B3B78E23DC72}" />
+			<Child40 Name="textbox_AvailableToDate" Owner="{5C493C31-B63C-4069-B75E-94C56BEBC5C8}" />
+			<Child41 Name="image_AvailableToCalendarButton" Owner="{44B3EDF3-E193-445D-B385-2A932ED7DC32}" />
+			<Child42 Name="panel_TimesheetDelegatesTextBox" Owner="{C4B055E5-8ED2-4374-8AF2-B379F7C822A1}" />
+			<Child43 Name="panel_TimesheetManagerTextbox" Owner="{A96360FC-364E-4C3E-8900-C5606A9EC2F3}" />
+			<Child44 Name="panel_PermissionsExpandCollapse" Owner="{15891381-AC62-465E-9EAF-15154850048B}" />
+			<Child45 Name="table_UserPermissions" Owner="{A2F5D5B8-5087-4B43-8307-BC51D46ADF0F}" />
+			<Child46 Name="table_UserLicenseType" Owner="{479EC1BD-457D-46AF-95CC-35A4D6840BE2}" />
+			<Child47 Name="checkbox_TimesheetAdministrator" Owner="{2D5DECFB-B970-4DC8-AFB7-D839FE40BE2F}" />
+			<Child48 Name="button_SaveUser" Owner="{131EE801-A864-4714-B799-7A82C24E35E6}" />
+			<Child49 Name="button_SaveItem" Owner="{22FA5E75-BE8E-4B4B-9356-9CA1306D3F75}" />
+			<Child50 Name="button_CancelUser" Owner="{04EC2392-EAD6-427C-89EF-B5011338EDA5}" />
+			<Child51 Name="button_CancelUser1" Owner="{00C9A2CE-1421-49A7-9773-1A9EA239B739}" />
+			<Child52 Name="textbox_UserDisplayName" Owner="{ABF7DB9A-FE0D-4D9D-B521-7376DF7B8CB1}" />
+			<Child53 Name="page_AddNewItem" Owner="{43536DB7-315D-4FAB-A5C0-86B627A267E9}">
+				<Child0 Name="panel_AddNewDepartment" Owner="{97FF2BBE-1518-4E9E-B13A-623C5E867909}" />
+			</Child53>
+			<Child54 Name="textbox_Title" Owner="{E607D1E0-4C03-4C65-8F17-222144333361}" />
+			<Child55 Name="button_AddManagers" Owner="{0C731829-9B49-4A16-A818-9754E22595EC}" />
+			<Child56 Name="button_RemoveManagers" Owner="{4563A8A9-E2AC-4377-8B06-7685415BE204}" />
+			<Child57 Name="button_AddExecutives" Owner="{65B3E246-4BA9-4A68-B2A5-F50EC580B871}" />
+			<Child58 Name="button_RemoveExecutives" Owner="{F57EE7C1-DABF-4E75-BC8E-B9596EE5990D}" />
+			<Child59 Name="checkbox_Default" Owner="{521E0CD9-FC45-4B2F-AF1F-0DE6BBFF0DB3}" />
 		</Child0>
 	</LogicalNodes>
 	<Storages Current="0">
@@ -853,6 +1501,153 @@
 			<Property178 Cookie="178" PropertyType="0" Value="2" Type="0" />
 			<Property179 Cookie="179" PropertyType="0" Value="Link" Type="5" />
 			<Property180 Cookie="180" PropertyType="0" Value="CloseBtn" Type="5" />
+			<Property181 Cookie="181" PropertyType="0" Value="Page" Type="5" />
+			<Property182 Cookie="182" PropertyType="0" Value="https://apps22.epmlive.com/sites/Automation/SitePages/Resource%20Pool.aspx" Type="5" />
+			<Property183 Cookie="183" PropertyType="0" Value="0" Type="0" />
+			<Property184 Cookie="184" PropertyType="0" Value="Form" Type="5" />
+			<Property185 Cookie="185" PropertyType="0" Value="aspnetForm" Type="5" />
+			<Property186 Cookie="186" PropertyType="0" Value="Panel" Type="5" />
+			<Property187 Cookie="187" PropertyType="0" Value="resourcePoolToolBar" Type="5" />
+			<Property188 Cookie="188" PropertyType="0" Value="Link" Type="5" />
+			<Property189 Cookie="189" PropertyType="0" Value="javascript:void(0)" Type="5" />
+			<Property190 Cookie="190" PropertyType="0" Value="0" Type="0" />
+			<Property191 Cookie="191" PropertyType="0" Value="Panel" Type="5" />
+			<Property192 Cookie="192" PropertyType="0" Value="WebPartWPQ2" Type="5" />
+			<Property193 Cookie="193" PropertyType="0" Value="Table" Type="5" />
+			<Property194 Cookie="194" PropertyType="0" Value="0" Type="0" />
+			<Property195 Cookie="195" PropertyType="0" Value="Cell" Type="5" />
+			<Property196 Cookie="196" PropertyType="0" Value="1" Type="0" />
+			<Property197 Cookie="197" PropertyType="0" Value="0" Type="0" />
+			<Property198 Cookie="198" PropertyType="0" Value="Panel" Type="5" />
+			<Property199 Cookie="199" PropertyType="0" Value="0" Type="0" />
+			<Property200 Cookie="200" PropertyType="0" Value="Panel" Type="5" />
+			<Property201 Cookie="201" PropertyType="0" Value="0" Type="0" />
+			<Property202 Cookie="202" PropertyType="0" Value="Checkbox" Type="5" />
+			<Property203 Cookie="203" PropertyType="0" Value="Textbox" Type="5" />
+			<Property204 Cookie="204" PropertyType="0" Value="First Name" Type="5" />
+			<Property205 Cookie="205" PropertyType="0" Value="Textbox" Type="5" />
+			<Property206 Cookie="206" PropertyType="0" Value="Last Name" Type="5" />
+			<Property207 Cookie="207" PropertyType="0" Value="Textbox" Type="5" />
+			<Property208 Cookie="208" PropertyType="0" Value="Email" Type="5" />
+			<Property209 Cookie="209" PropertyType="0" Value="Cell" Type="5" />
+			<Property210 Cookie="210" PropertyType="0" Value="2" Type="0" />
+			<Property211 Cookie="211" PropertyType="0" Value="0" Type="0" />
+			<Property212 Cookie="212" PropertyType="0" Value="Panel" Type="5" />
+			<Property213 Cookie="213" PropertyType="0" Value="0" Type="0" />
+			<Property214 Cookie="214" PropertyType="0" Value="Panel" Type="5" />
+			<Property215 Cookie="215" PropertyType="0" Value="0" Type="0" />
+			<Property216 Cookie="216" PropertyType="0" Value="Textbox" Type="5" />
+			<Property217 Cookie="217" PropertyType="0" Value="Standard Rate" Type="5" />
+			<Property218 Cookie="218" PropertyType="0" Value="Image" Type="5" />
+			<Property219 Cookie="219" PropertyType="0" Value="Department_ddlShowAll" Type="5" />
+			<Property220 Cookie="220" PropertyType="0" Value="Panel" Type="5" />
+			<Property221 Cookie="221" PropertyType="0" Value="1" Type="0" />
+			<Property222 Cookie="222" PropertyType="0" Value="Table" Type="5" />
+			<Property223 Cookie="223" PropertyType="0" Value="Cell" Type="5" />
+			<Property224 Cookie="224" PropertyType="0" Value="1" Type="0" />
+			<Property225 Cookie="225" PropertyType="0" Value="1" Type="0" />
+			<Property226 Cookie="226" PropertyType="0" Value="Image" Type="5" />
+			<Property227 Cookie="227" PropertyType="0" Value="Plus14_png" Type="5" />
+			<Property228 Cookie="228" PropertyType="0" Value="Image" Type="5" />
+			<Property229 Cookie="229" PropertyType="0" Value="addressbook_gif" Type="5" />
+			<Property230 Cookie="230" PropertyType="0" Value="Panel" Type="5" />
+			<Property231 Cookie="231" PropertyType="0" Value="Panel" Type="5" />
+			<Property232 Cookie="232" PropertyType="0" Value="Cell" Type="5" />
+			<Property233 Cookie="233" PropertyType="0" Value="2" Type="0" />
+			<Property234 Cookie="234" PropertyType="0" Value="1" Type="0" />
+			<Property235 Cookie="235" PropertyType="0" Value="Panel" Type="5" />
+			<Property236 Cookie="236" PropertyType="0" Value="Image" Type="5" />
+			<Property237 Cookie="237" PropertyType="0" Value="Role_ddlShowAll" Type="5" />
+			<Property238 Cookie="238" PropertyType="0" Value="Image" Type="5" />
+			<Property239 Cookie="239" PropertyType="0" Value="addressbook_gif" Type="5" />
+			<Property240 Cookie="240" PropertyType="0" Value="Image" Type="5" />
+			<Property241 Cookie="241" PropertyType="0" Value="Plus14_png" Type="5" />
+			<Property242 Cookie="242" PropertyType="0" Value="Cell" Type="5" />
+			<Property243 Cookie="243" PropertyType="0" Value="3" Type="0" />
+			<Property244 Cookie="244" PropertyType="0" Value="1" Type="0" />
+			<Property245 Cookie="245" PropertyType="0" Value="Panel" Type="5" />
+			<Property246 Cookie="246" PropertyType="0" Value="Image" Type="5" />
+			<Property247 Cookie="247" PropertyType="0" Value="HolidaySchedule_ddlShowAll" Type="5" />
+			<Property248 Cookie="248" PropertyType="0" Value="Image" Type="5" />
+			<Property249 Cookie="249" PropertyType="0" Value="Plus14_png" Type="5" />
+			<Property250 Cookie="250" PropertyType="0" Value="Image" Type="5" />
+			<Property251 Cookie="251" PropertyType="0" Value="addressbook_gif" Type="5" />
+			<Property252 Cookie="252" PropertyType="0" Value="Cell" Type="5" />
+			<Property253 Cookie="253" PropertyType="0" Value="4" Type="0" />
+			<Property254 Cookie="254" PropertyType="0" Value="1" Type="0" />
+			<Property255 Cookie="255" PropertyType="0" Value="Panel" Type="5" />
+			<Property256 Cookie="256" PropertyType="0" Value="Image" Type="5" />
+			<Property257 Cookie="257" PropertyType="0" Value="WorkHours_ddlShowAll" Type="5" />
+			<Property258 Cookie="258" PropertyType="0" Value="Image" Type="5" />
+			<Property259 Cookie="259" PropertyType="0" Value="addressbook_gif" Type="5" />
+			<Property260 Cookie="260" PropertyType="0" Value="Image" Type="5" />
+			<Property261 Cookie="261" PropertyType="0" Value="Plus14_png" Type="5" />
+			<Property262 Cookie="262" PropertyType="0" Value="Textbox" Type="5" />
+			<Property263 Cookie="263" PropertyType="0" Value="AvailableFrom Date" Type="5" />
+			<Property264 Cookie="264" PropertyType="0" Value="Cell" Type="5" />
+			<Property265 Cookie="265" PropertyType="0" Value="5" Type="0" />
+			<Property266 Cookie="266" PropertyType="0" Value="1" Type="0" />
+			<Property267 Cookie="267" PropertyType="0" Value="Image" Type="5" />
+			<Property268 Cookie="268" PropertyType="0" Value="calendar_25_gif_rev_23" Type="5" />
+			<Property269 Cookie="269" PropertyType="0" Value="Textbox" Type="5" />
+			<Property270 Cookie="270" PropertyType="0" Value="AvailableTo Date" Type="5" />
+			<Property271 Cookie="271" PropertyType="0" Value="Cell" Type="5" />
+			<Property272 Cookie="272" PropertyType="0" Value="6" Type="0" />
+			<Property273 Cookie="273" PropertyType="0" Value="1" Type="0" />
+			<Property274 Cookie="274" PropertyType="0" Value="Image" Type="5" />
+			<Property275 Cookie="275" PropertyType="0" Value="calendar_25_gif_rev_23" Type="5" />
+			<Property276 Cookie="276" PropertyType="0" Value="Panel" Type="5" />
+			<Property277 Cookie="277" PropertyType="0" Value="Timesheet Delegates" Type="5" />
+			<Property278 Cookie="278" PropertyType="0" Value="Panel" Type="5" />
+			<Property279 Cookie="279" PropertyType="0" Value="Timesheet Manager" Type="5" />
+			<Property280 Cookie="280" PropertyType="0" Value="Cell" Type="5" />
+			<Property281 Cookie="281" PropertyType="0" Value="3" Type="0" />
+			<Property282 Cookie="282" PropertyType="0" Value="0" Type="0" />
+			<Property283 Cookie="283" PropertyType="0" Value="Panel" Type="5" />
+			<Property284 Cookie="284" PropertyType="0" Value="0" Type="0" />
+			<Property285 Cookie="285" PropertyType="0" Value="Panel" Type="5" />
+			<Property286 Cookie="286" PropertyType="0" Value="0" Type="0" />
+			<Property287 Cookie="287" PropertyType="0" Value="Table" Type="5" />
+			<Property288 Cookie="288" PropertyType="0" Value="chkPerms" Type="5" />
+			<Property289 Cookie="289" PropertyType="0" Value="Table" Type="5" />
+			<Property290 Cookie="290" PropertyType="0" Value="ddlLevels" Type="5" />
+			<Property291 Cookie="291" PropertyType="0" Value="Checkbox" Type="5" />
+			<Property292 Cookie="292" PropertyType="0" Value="" Type="5" />
+			<Property293 Cookie="293" PropertyType="0" Value="Table" Type="5" />
+			<Property294 Cookie="294" PropertyType="0" Value="2" Type="0" />
+			<Property295 Cookie="295" PropertyType="0" Value="Button" Type="5" />
+			<Property296 Cookie="296" PropertyType="0" Value="diidIOSaveItem" Type="5" />
+			<Property297 Cookie="297" PropertyType="0" Value="Table" Type="5" />
+			<Property298 Cookie="298" PropertyType="0" Value="toolBarTbltop" Type="5" />
+			<Property299 Cookie="299" PropertyType="0" Value="Button" Type="5" />
+			<Property300 Cookie="300" PropertyType="0" Value="diidIOSaveItem" Type="5" />
+			<Property301 Cookie="301" PropertyType="0" Value="Button" Type="5" />
+			<Property302 Cookie="302" PropertyType="0" Value="diidIOGoBack" Type="5" />
+			<Property303 Cookie="303" PropertyType="0" Value="Button" Type="5" />
+			<Property304 Cookie="304" PropertyType="0" Value="diidIOGoBack" Type="5" />
+			<Property305 Cookie="305" PropertyType="0" Value="Textbox" Type="5" />
+			<Property306 Cookie="306" PropertyType="0" Value="Display Name" Type="5" />
+			<Property307 Cookie="307" PropertyType="0" Value="Page" Type="5" />
+			<Property308 Cookie="308" PropertyType="0" Value="https://apps22.epmlive.com/sites/Automation/Lists/Resources/NewForm.aspx*" Type="5" />
+			<Property309 Cookie="309" PropertyType="0" Value="0" Type="0" />
+			<Property310 Cookie="310" PropertyType="0" Value="Panel" Type="5" />
+			<Property311 Cookie="311" PropertyType="0" Value="Sys.Browser(&quot;*&quot;).Page(&quot;https://apps22.epmlive.com/sites/Automation/Lists/Resources/NewForm.aspx?source=%2Fsites%2FAutomation%2FSitePages%2FResource%2520Pool.aspx&quot;).Panel(1)" Type="5" />
+			<Property312 Cookie="312" PropertyType="0" Value="Textbox" Type="5" />
+			<Property313 Cookie="313" PropertyType="0" Value="Cell" Type="5" />
+			<Property314 Cookie="314" PropertyType="0" Value="2" Type="0" />
+			<Property315 Cookie="315" PropertyType="0" Value="1" Type="0" />
+			<Property316 Cookie="316" PropertyType="0" Value="Button" Type="5" />
+			<Property317 Cookie="317" PropertyType="0" Value="Add &gt;" Type="5" />
+			<Property318 Cookie="318" PropertyType="0" Value="Button" Type="5" />
+			<Property319 Cookie="319" PropertyType="0" Value="&lt; Remove" Type="5" />
+			<Property320 Cookie="320" PropertyType="0" Value="Cell" Type="5" />
+			<Property321 Cookie="321" PropertyType="0" Value="3" Type="0" />
+			<Property322 Cookie="322" PropertyType="0" Value="1" Type="0" />
+			<Property323 Cookie="323" PropertyType="0" Value="Button" Type="5" />
+			<Property324 Cookie="324" PropertyType="0" Value="Add &gt;" Type="5" />
+			<Property325 Cookie="325" PropertyType="0" Value="Button" Type="5" />
+			<Property326 Cookie="326" PropertyType="0" Value="&lt; Remove" Type="5" />
+			<Property327 Cookie="327" PropertyType="0" Value="Checkbox" Type="5" />
 		</Child0>
 	</Storages>
 	<TypeInfo StoreCodeCompletion="1">
@@ -5680,6 +6475,335 @@
 				<VarDescriptions />
 			</Data>
 		</Child17>
+		<Child18 Hash="-1586097072">
+			<Data Properties="000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFF0000000004000000040000002600000000000000000000000000000000000000000000000000000000000000">
+				<FunctionDescriptions>
+					<Child0 Name="_NewEnum" Doc="Returns an enumerator for the children collection." IsBasic="True" Data="0000000000000000000000000400000002000000040000000000000054000000000000000D003100000000000000330000003100">
+						<ReturnValue Param0="13" />
+					</Child0>
+					<Child1 Name="AddRef" IsBasic="True" Data="00000000000000000000000004000000010000000400000000000000040000000000000013006900000000000000690001006500">
+						<ReturnValue Param0="19" />
+					</Child1>
+					<Child2 Name="Child" Doc="Returns a child object by its index." IsBasic="True" Param0="Index" Data="000000000000000000000000040000000100000004000000010000003000000000000000090074000000000000006F0000002000">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="9" />
+					</Child2>
+					<Child3 Name="ChildCount" Doc="The number of child objects." IsBasic="True" Data="000000000000000000000000040000000200000004000000000000002C00000000000000030072000000000000005C0000006F00">
+						<ReturnValue Param0="3" />
+					</Child3>
+					<Child4 Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="000000000000000000000000040000000100000004000000030000001C00000000000000180061000000000000006F0000007300">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child4>
+					<Child5 Name="ClickChecked" IsBasic="True" Param0="Checked" Data="000000000000000000000000040000000100000004000000010000001C0000000000000018000000000000000000000000001C00">
+						<Param0>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child5>
+					<Child6 Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="000000000000000000000000040000000100000004000000030000002400000000000000180062000000000000006F0000002000">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child6>
+					<Child7 Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="0000000000000000000000000400000002000000040000000000000038000000000000000B002000000000000000660000007400">
+						<ReturnValue Param0="11" />
+					</Child7>
+					<Child8 Name="Exists" Doc="True if the object exists in the system; else, false." IsBasic="True" Data="0000000000000000000000000400000002000000040000000000000034000000000000000B0072000000000000005C0000006F00">
+						<ReturnValue Param0="11" />
+					</Child8>
+					<Child9 Name="Find" Doc="Returns an object by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Data="000000000000000000000000040000000100000004000000040000003C00000000000000090074000000000000006F0000007300">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="1" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<ReturnValue Param0="9" />
+					</Child9>
+					<Child10 Name="FindAll" Doc="Returns an array of objects by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Data="0000000000000000000000000400000001000000040000000400000040000000000000000C007600000000000000540000006900">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="1" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<ReturnValue Param0="12" />
+					</Child10>
+					<Child11 Name="FindAllChildren" Doc="Returns an array of objects by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Data="0000000000000000000000000400000001000000040000000400000060000000000000000C000000000000000000000000000000">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="1" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<ReturnValue Param0="12" />
+					</Child11>
+					<Child12 Name="FindChild" Doc="Returns an object by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Data="000000000000000000000000040000000100000004000000040000005C0000000000000009000000000000000000650000007400">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<ReturnValue Param0="9" />
+					</Child12>
+					<Child13 Name="FindId" Doc="Returns an object by its ID." IsBasic="True" Param0="Id" Param1="RefreshTree" Data="00000000000000000000000004000000010000000400000002000000200000000000000009007400000000000000650000007600">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param1>
+						<ReturnValue Param0="9" />
+					</Child13>
+					<Child14 Name="FullName" Doc="Returns the full name of an object.&#32;&#32;Its full name uniquely identifies an object in the system." IsBasic="True" Data="000000000000000000000000040000000200000004000000000000005000000000000000080072000000000000005C0000006F00">
+						<ReturnValue Param0="8" />
+					</Child14>
+					<Child15 Name="GetIDsOfNames" IsBasic="True" Param0="riid" Param1="rgszNames" Param2="cNames" Param3="lcid" Param4="rgdispid" Data="00000000000000000000000004000000010000000400000005000000140000000000000018006D00000000000000660001006100">
+						<Param0>
+							<TypeDesc Param0="26" Param1="29" Type1="0" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="26" Param1="26" Param2="16" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="23" />
+							<ParamDesc Flags="1" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="19" />
+							<ParamDesc Flags="1" />
+						</Param3>
+						<Param4>
+							<TypeDesc Param0="26" Param1="3" />
+							<ParamDesc Flags="2" />
+						</Param4>
+						<ReturnValue Param0="24" />
+					</Child15>
+					<Child16 Name="GetTypeInfo" IsBasic="True" Param0="itinfo" Param1="lcid" Param2="pptinfo" Data="00000000000000000000000004000000010000000400000003000000100000000000000018006D00000000000000660001006100">
+						<Param0>
+							<TypeDesc Param0="23" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="19" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="26" Param1="26" Param2="24" />
+							<ParamDesc Flags="2" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child16>
+					<Child17 Name="GetTypeInfoCount" IsBasic="True" Param0="pctinfo" Data="000000000000000000000000040000000100000004000000010000000C00000000000000180072000000000000005C0001006F00">
+						<Param0>
+							<TypeDesc Param0="26" Param1="23" />
+							<ParamDesc Flags="2" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child17>
+					<Child18 Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="00000000000000000000000004000000020000000400000000000000340000000000000003002000000000000000660000007400">
+						<ReturnValue Param0="3" />
+					</Child18>
+					<Child19 Name="Id" Doc="Object ID. For processes, the process ID; for windows, the window handle, etc." IsBasic="True" Data="000000000000000000000000040000000200000004000000000000001C0000000000000003007200000000000000700000007800">
+						<ReturnValue Param0="3" />
+					</Child19>
+					<Child20 Name="idStr" IsBasic="True" Data="00000000000000000000000004000000020000000400000000000000200000000000000008000000000000000000000000000000">
+						<ReturnValue Param0="8" />
+					</Child20>
+					<Child21 Name="Invoke" IsBasic="True" Param0="dispidMember" Param1="riid" Param2="lcid" Param3="wFlags" Param4="pdispparams" Param5="pvarResult" Param6="pexcepinfo" Param7="puArgErr" Data="00000000000000000000000004000000010000000400000008000000180000000000000018003800000000000000470001006F00">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="26" Param1="29" Type1="0" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="19" />
+							<ParamDesc Flags="1" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="18" />
+							<ParamDesc Flags="1" />
+						</Param3>
+						<Param4>
+							<TypeDesc Param0="26" Param1="29" Type1="1" />
+							<ParamDesc Flags="1" />
+						</Param4>
+						<Param5>
+							<TypeDesc Param0="26" Param1="12" />
+							<ParamDesc Flags="2" />
+						</Param5>
+						<Param6>
+							<TypeDesc Param0="26" Param1="29" Type1="2" />
+							<ParamDesc Flags="2" />
+						</Param6>
+						<Param7>
+							<TypeDesc Param0="26" Param1="23" />
+							<ParamDesc Flags="2" />
+						</Param7>
+						<ReturnValue Param0="24" />
+					</Child21>
+					<Child22 Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="000000000000000000000000040000000100000004000000010000004000000000000000180075000000000000006E0000006400">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child22>
+					<Child23 Name="MappedName" Doc="Specifies the mapped name of the object." IsBasic="True" Data="000000000000000000000000040000000200000004000000000000004800000000000000080020000000000000006C0000006B00">
+						<ReturnValue Param0="8" />
+					</Child23>
+					<Child24 Name="Name" Doc="Object name." IsBasic="True" Data="000000000000000000000000040000000200000004000000000000002400000000000000080063000000000000006D0000002000">
+						<ReturnValue Param0="8" />
+					</Child24>
+					<Child25 Name="namePropStr" IsBasic="True" Data="000000000000000000000000040000000200000004000000000000001C0000000000000008000000000000000000000000000000">
+						<ReturnValue Param0="8" />
+					</Child25>
+					<Child26 Name="ObjectIdentifier" IsBasic="True" Data="000000000000000000000000040000000200000004000000000000000C000000000000000C000000000000000000000000000000">
+						<ReturnValue Param0="12" />
+					</Child26>
+					<Child27 Name="ObjectLabel" IsBasic="True" Data="000000000000000000000000040000000200000004000000000000001C0000000000000008000000000000000000000000000000">
+						<ReturnValue Param0="8" />
+					</Child27>
+					<Child28 Name="ObjectType" IsBasic="True" Data="000000000000000000000000040000000200000004000000000000001C0000000000000008000000000000000000000000000000">
+						<ReturnValue Param0="8" />
+					</Child28>
+					<Child29 Name="Parent" Doc="Parent object." IsBasic="True" Data="000000000000000000000000040000000200000004000000000000002800000000000000090063000000000000006D0000002000">
+						<ReturnValue Param0="9" />
+					</Child29>
+					<Child30 Name="QueryInterface" IsBasic="True" Param0="riid" Param1="ppvObj" Data="000000000000000000000000040000000100000004000000020000000000000000000000180063000000000000006D0001002000">
+						<Param0>
+							<TypeDesc Param0="26" Param1="29" Type1="0" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="26" Param1="26" Param2="24" />
+							<ParamDesc Flags="2" />
+						</Param1>
+						<ReturnValue Param0="24" />
+					</Child30>
+					<Child31 Name="Refresh" Doc="Updates the internal list of child objects." IsBasic="True" Data="000000000000000000000000040000000100000004000000000000004C0000000000000018006900000000000000454D00000000">
+						<ReturnValue Param0="24" />
+					</Child31>
+					<Child32 Name="Release" IsBasic="True" Data="00000000000000000000000004000000010000000400000000000000080000000000000013006900000000000000454D01000000">
+						<ReturnValue Param0="19" />
+					</Child32>
+					<Child33 Name="Validate" Doc="Generates the OnValidate event." IsBasic="True" Param0="Params" Data="00000000000000000000000004000000010000000400000001000100380000000000000018006C00000000000000730040002000">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="17" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child33>
+					<Child34 Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="000000000000000000000000040000000200000004000000000000001C000000000000000B007000000000000000000000001C00">
+						<ReturnValue Param0="11" />
+					</Child34>
+					<Child35 Name="WaitChild" Doc="Delays script execution until the specified child object appears in the child list or the specified time limit is reached." IsBasic="True" Param0="ChildName" Param1="WaitTime" Data="000000000000000000000000040000000100000004000000020000004400000000000000090065000000000000005C0000006500">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param1>
+						<ReturnValue Param0="9" />
+					</Child35>
+					<Child36 Name="WaitProperty" Doc="Delays the script execution until the specified property equals the specified value or until the specified time limit elapses." IsBasic="True" Param0="PropertyName" Param1="PropertyValue" Param2="WaitTime" Data="0000000000000000000000000400000001000000040000000300000058000000000000000B006800000000000000200000006E00">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param2>
+						<ReturnValue Param0="11" />
+					</Child36>
+					<Child37 Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="00000000000000000000000004000000020000000400000000000000300000000000000003002000000000000000660000007400">
+						<ReturnValue Param0="3" />
+					</Child37>
+				</FunctionDescriptions>
+				<VarDescriptions />
+			</Data>
+		</Child18>
 		<UserDefinedTypes Child0="GUID" Child1="DISPPARAMS" Child2="EXCEPINFO" Child3="TShiftKey" />
 	</TypeInfo>
 </Root>
