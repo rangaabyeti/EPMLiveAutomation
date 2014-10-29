@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Raanga testing
+=======
+testing
+test2
+>>>>>>> 1091b4e4357e7bbd59c4a0042cb77ced3167375d
