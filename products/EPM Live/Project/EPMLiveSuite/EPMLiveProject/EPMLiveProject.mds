@@ -1499,7 +1499,7 @@
 							<Prp name="name" type="S" value="C869717"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{35C927CD-FB5F-49AA-B610-C2FDB78D8FDB}C869717"/>
+							<Prp name="test moniker" type="S" value="{68F0B084-E7D6-4546-A709-3BDB13D47C39}C869717"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000001">
@@ -1523,7 +1523,7 @@
 							<Prp name="name" type="S" value="C869718"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{41AE428A-7514-4ED7-B084-A0709DF23FF5}C869718"/>
+							<Prp name="test moniker" type="S" value="{80B70B6E-FDDB-4F3B-9330-EBFF526B3F86}C869718"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000002">
@@ -1547,7 +1547,7 @@
 							<Prp name="name" type="S" value="C869719"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{CF02C1D0-EDEF-4D3F-8167-5D25482C0509}C869719"/>
+							<Prp name="test moniker" type="S" value="{A1CA1C1C-7393-4856-A104-8BD78D8638B7}C869719"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000003">
@@ -1571,7 +1571,7 @@
 							<Prp name="name" type="S" value="C869720"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{A285756F-16BA-4354-8410-85470516D9B7}C869720"/>
+							<Prp name="test moniker" type="S" value="{06615D8C-475D-47B6-AEC6-F0740142B7B1}C869720"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000004">
@@ -1595,7 +1595,7 @@
 							<Prp name="name" type="S" value="C869721"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{682AB4DD-2A0A-4B85-8758-5346EB37AD51}C869721"/>
+							<Prp name="test moniker" type="S" value="{B1E7164F-0531-423B-BDF8-384557BADB07}C869721"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000005">
@@ -1619,7 +1619,7 @@
 							<Prp name="name" type="S" value="C869722"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{8CEA82C4-695C-4C5F-B172-13EC8A9F38DB}C869722"/>
+							<Prp name="test moniker" type="S" value="{AF06A1D0-810C-4CC1-87F3-161DAD6067B5}C869722"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000006">
@@ -1643,7 +1643,7 @@
 							<Prp name="name" type="S" value="C869725"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{635E89A4-B6C0-4800-877B-7074E9AD3C6E}C869725"/>
+							<Prp name="test moniker" type="S" value="{E7B36BED-59E7-40BA-8444-28D245297F09}C869725"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000007">
@@ -1667,7 +1667,7 @@
 							<Prp name="name" type="S" value="C869728"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{630E5D69-B4F9-4CA7-9335-18FEE2D3D2CE}C869728"/>
+							<Prp name="test moniker" type="S" value="{F34CA9F5-4DEA-4DAE-8C11-ABE6013C40FA}C869728"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000008">
@@ -1691,7 +1691,7 @@
 							<Prp name="name" type="S" value="C869729"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{5B831831-A54E-4855-9B67-1CB7D262DDDC}C869729"/>
+							<Prp name="test moniker" type="S" value="{0A28FC73-F85F-4214-B2E3-2FFCDABA3308}C869729"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000009">
@@ -1715,7 +1715,7 @@
 							<Prp name="name" type="S" value="C869730"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{667B3ADA-612B-4D9F-8A90-4AA05DA5DE36}C869730"/>
+							<Prp name="test moniker" type="S" value="{587D0A35-8ED7-41A8-8DB8-2D574F9224C8}C869730"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000010">
@@ -1739,7 +1739,7 @@
 							<Prp name="name" type="S" value="C869733"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{D752491D-289B-4896-BAEB-183C4FAA71C5}C869733"/>
+							<Prp name="test moniker" type="S" value="{692976C7-DC7F-49D9-B9F4-DEA204A55D0B}C869733"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 						<Node name="item0000000011">
@@ -1763,7 +1763,7 @@
 							<Prp name="name" type="S" value="C869734"/>
 							<Prp name="stoponerror" type="I" value="2"/>
 							<Prp name="stoponexception" type="I" value="2"/>
-							<Prp name="test moniker" type="S" value="{52130C99-AC11-4F6D-9097-06F714A65984}C869734"/>
+							<Prp name="test moniker" type="S" value="{7ADCC55A-9383-4036-AD7F-38E6F61B9CE3}C869734"/>
 							<Prp name="timeout" type="I" value="0"/>
 						</Node>
 					</Node>

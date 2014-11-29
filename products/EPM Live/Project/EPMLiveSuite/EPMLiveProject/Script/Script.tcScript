@@ -22,230 +22,420 @@
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="GeneralFunctions.svb"/>
+					<Prp name="relpath" type="S" value="Test.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{A5B8DA97-2B05-45C7-B91A-6AB6C81CBBA7}"/>
+				<Prp name="key" type="S" value="{DC36EB3C-0B74-4861-87BC-684DA3E8CD07}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000001">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Navigation.svb"/>
+					<Prp name="relpath" type="S" value="General\GeneralFunctions.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="1"/>
-				<Prp name="key" type="S" value="{8001B712-6609-4DE0-BE6D-950576EA237A}"/>
+				<Prp name="key" type="S" value="{0578BB1A-4C63-4933-B8B6-132C11AEEF14}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000002">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Projects.svb"/>
+					<Prp name="relpath" type="S" value="General\ItemsTab.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="2"/>
-				<Prp name="key" type="S" value="{4EDFB881-92F5-4F66-9DF2-1B79B818E4FA}"/>
+				<Prp name="key" type="S" value="{1075DB31-B830-4E9B-9BF2-87399CBC33BA}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000003">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="ItemsTab.svb"/>
+					<Prp name="relpath" type="S" value="General\LaunchBrowser.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="3"/>
-				<Prp name="key" type="S" value="{247DA3C0-7D23-4B00-916C-66AF3E8F76A7}"/>
+				<Prp name="key" type="S" value="{7BFE352D-DFF9-4087-858B-6F6ADE713136}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000004">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="ListTab.svb"/>
+					<Prp name="relpath" type="S" value="General\ListTab.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="4"/>
-				<Prp name="key" type="S" value="{6FC01576-047A-4F75-A51E-F91DEE7426C9}"/>
+				<Prp name="key" type="S" value="{042E0A03-9D22-4FAF-B15F-02D049E20E48}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000005">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Projects_I.svb"/>
+					<Prp name="relpath" type="S" value="General\ProjectFunctions.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="5"/>
-				<Prp name="key" type="S" value="{772593E2-4AB9-42EF-AE96-E931C35BE8CC}"/>
+				<Prp name="key" type="S" value="{5880ED2C-8E4A-4D92-92CD-988D38B7CFD2}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000006">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869717.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Basic\Navigation\Navigation.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="6"/>
-				<Prp name="key" type="S" value="{35C927CD-FB5F-49AA-B610-C2FDB78D8FDB}"/>
+				<Prp name="key" type="S" value="{14E16A91-C979-4CB3-B1AD-3277D33BBC4E}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000007">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869718.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Basic\Navigation\Projects\CostPlanner.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="7"/>
-				<Prp name="key" type="S" value="{41AE428A-7514-4ED7-B084-A0709DF23FF5}"/>
+				<Prp name="key" type="S" value="{1991A29C-A9F0-40FC-991E-B24E40E817CE}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000008">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869719.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Basic\Navigation\Projects\EditPlan.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="8"/>
-				<Prp name="key" type="S" value="{CF02C1D0-EDEF-4D3F-8167-5D25482C0509}"/>
+				<Prp name="key" type="S" value="{0E860B2A-54A4-4BD0-8BF5-6DAD8D44A5CB}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000009">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="ResourcePlanner.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Basic\Navigation\Projects\Projects.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="9"/>
-				<Prp name="key" type="S" value="{56AAB1D3-9027-47A2-9631-0550D1F3E2AE}"/>
+				<Prp name="key" type="S" value="{6C3AF484-6C4E-4519-9A65-425BEC2A6977}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000010">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="ResourcePlanner_I.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Basic\Navigation\Projects\Projects_Application.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="10"/>
-				<Prp name="key" type="S" value="{5AD705E5-4C06-4689-B94B-9C85702F8518}"/>
+				<Prp name="key" type="S" value="{F2FD2FD3-DAB1-4564-8A5A-B54A3270FC16}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000011">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="ProjectFunctions.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Basic\Navigation\Projects\Projects_Portfolio.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="11"/>
-				<Prp name="key" type="S" value="{CEDF4647-84B0-4A93-93AF-1790DC053018}"/>
+				<Prp name="key" type="S" value="{12589C0C-557E-4004-960D-650AB8D4ADD2}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000012">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Test.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Basic\Navigation\Projects\ResourcePlanner.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="12"/>
-				<Prp name="key" type="S" value="{DC36EB3C-0B74-4861-87BC-684DA3E8CD07}"/>
+				<Prp name="key" type="S" value="{AD84807D-BD11-4AFF-8DF8-0CDE81629759}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000013">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869720.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Basic\Navigation\Projects\ViewItem.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="13"/>
-				<Prp name="key" type="S" value="{A285756F-16BA-4354-8410-85470516D9B7}"/>
+				<Prp name="key" type="S" value="{AD9DEF0D-21D6-4938-BAA7-4023C481789D}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000014">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869721.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Basic\MyWorkplace\MyWorkplace.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="14"/>
-				<Prp name="key" type="S" value="{682AB4DD-2A0A-4B85-8758-5346EB37AD51}"/>
+				<Prp name="key" type="S" value="{373DD492-3806-47CE-B021-B4BA1C17C975}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000015">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869722.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Intermediate\Navigation\Projects_I.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="15"/>
-				<Prp name="key" type="S" value="{8CEA82C4-695C-4C5F-B172-13EC8A9F38DB}"/>
+				<Prp name="key" type="S" value="{9D11FF31-88A7-4780-8C0D-0EE67111067F}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000016">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869725.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Intermediate\Navigation\ResourcePlanner_I.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="16"/>
-				<Prp name="key" type="S" value="{635E89A4-B6C0-4800-877B-7074E9AD3C6E}"/>
+				<Prp name="key" type="S" value="{23AB925A-59FF-4BB4-9EE7-6532FBF2AE14}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000017">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869728.svb"/>
+					<Prp name="relpath" type="S" value="Phase_Intermediate\MyWorkplace\MyTimesheet_I.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="17"/>
-				<Prp name="key" type="S" value="{630E5D69-B4F9-4CA7-9335-18FEE2D3D2CE}"/>
+				<Prp name="key" type="S" value="{7C3217E5-D55F-42F6-B4ED-FA45A8D1235C}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000018">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869729.svb"/>
+					<Prp name="relpath" type="S" value="Phase_TestCases\C223312.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="18"/>
-				<Prp name="key" type="S" value="{5B831831-A54E-4855-9B67-1CB7D262DDDC}"/>
+				<Prp name="key" type="S" value="{2393AFD8-30DA-481C-9BB2-B8A0E6EB0E6C}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000019">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869730.svb"/>
+					<Prp name="relpath" type="S" value="Phase_TestCases\C223315.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="19"/>
-				<Prp name="key" type="S" value="{667B3ADA-612B-4D9F-8A90-4AA05DA5DE36}"/>
+				<Prp name="key" type="S" value="{6C05E41A-1B7A-4E67-A6C5-1B6AFE20469C}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000020">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869733.svb"/>
+					<Prp name="relpath" type="S" value="Phase_TestCases\C223316.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="20"/>
-				<Prp name="key" type="S" value="{D752491D-289B-4896-BAEB-183C4FAA71C5}"/>
+				<Prp name="key" type="S" value="{8930380A-8590-4F27-9A7A-8A7AA5A69D1A}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000021">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="C869734.svb"/>
+					<Prp name="relpath" type="S" value="Phase_TestCases\C223318.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="21"/>
-				<Prp name="key" type="S" value="{52130C99-AC11-4F6D-9097-06F714A65984}"/>
+				<Prp name="key" type="S" value="{2D416D2C-A4E8-4FB0-B92E-579126CC9B84}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000022">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="LaunchBrowser.svb"/>
+					<Prp name="relpath" type="S" value="Phase_TestCases\C223320.svb"/>
 				</Node>
 				<Prp name="index" type="I" value="22"/>
-				<Prp name="key" type="S" value="{8249333F-9B27-43D1-9726-E2D2801910D8}"/>
+				<Prp name="key" type="S" value="{F07277C5-D099-4D9B-9886-88E2657E1B26}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000023">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C223323.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="23"/>
+				<Prp name="key" type="S" value="{FC4388D2-DB44-471E-9033-0E2A03DB09A9}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000024">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C223329.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="24"/>
+				<Prp name="key" type="S" value="{DC2DCBC1-D72D-4B1F-B8A3-A5A4BEB81637}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000025">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C290579.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="25"/>
+				<Prp name="key" type="S" value="{DADCDD8B-BA5C-42D9-8559-46163206DB82}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000026">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C290580.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="26"/>
+				<Prp name="key" type="S" value="{79C83F0F-BEC5-4C46-842B-3D671D8AF1AA}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000027">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C307632.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="27"/>
+				<Prp name="key" type="S" value="{CF60E3F3-8EE6-42BF-9553-C5E444C0B23C}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000028">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C307730.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="28"/>
+				<Prp name="key" type="S" value="{771C526D-1468-4F4D-81B4-7B5DEBBE6336}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000029">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C307731.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="29"/>
+				<Prp name="key" type="S" value="{2E00FEC5-24E2-448A-87AF-A9ACB9FCD4A1}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000030">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869717.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="30"/>
+				<Prp name="key" type="S" value="{68F0B084-E7D6-4546-A709-3BDB13D47C39}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000031">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869718.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="31"/>
+				<Prp name="key" type="S" value="{80B70B6E-FDDB-4F3B-9330-EBFF526B3F86}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000032">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869719.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="32"/>
+				<Prp name="key" type="S" value="{A1CA1C1C-7393-4856-A104-8BD78D8638B7}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000033">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869720.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="33"/>
+				<Prp name="key" type="S" value="{06615D8C-475D-47B6-AEC6-F0740142B7B1}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000034">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869721.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="34"/>
+				<Prp name="key" type="S" value="{B1E7164F-0531-423B-BDF8-384557BADB07}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000035">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869722.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="35"/>
+				<Prp name="key" type="S" value="{AF06A1D0-810C-4CC1-87F3-161DAD6067B5}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000036">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869725.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="36"/>
+				<Prp name="key" type="S" value="{E7B36BED-59E7-40BA-8444-28D245297F09}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000037">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869728.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="37"/>
+				<Prp name="key" type="S" value="{F34CA9F5-4DEA-4DAE-8C11-ABE6013C40FA}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000038">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869729.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="38"/>
+				<Prp name="key" type="S" value="{0A28FC73-F85F-4214-B2E3-2FFCDABA3308}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000039">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869730.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="39"/>
+				<Prp name="key" type="S" value="{587D0A35-8ED7-41A8-8DB8-2D574F9224C8}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000040">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869733.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="40"/>
+				<Prp name="key" type="S" value="{692976C7-DC7F-49D9-B9F4-DEA204A55D0B}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000041">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_TestCases\C869734.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="41"/>
+				<Prp name="key" type="S" value="{7ADCC55A-9383-4036-AD7F-38E6F61B9CE3}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
@@ -258,23 +448,23 @@
 					<Node name="references">
 						<Node name="ref0000000000">
 							<Prp name="index" type="I" value="0"/>
-							<Prp name="key" type="S" value="{A5B8DA97-2B05-45C7-B91A-6AB6C81CBBA7}"/>
+							<Prp name="key" type="S" value="{0578BB1A-4C63-4933-B8B6-132C11AEEF14}"/>
 						</Node>
 						<Node name="ref0000000001">
 							<Prp name="index" type="I" value="1"/>
-							<Prp name="key" type="S" value="{247DA3C0-7D23-4B00-916C-66AF3E8F76A7}"/>
+							<Prp name="key" type="S" value="{1075DB31-B830-4E9B-9BF2-87399CBC33BA}"/>
 						</Node>
 						<Node name="ref0000000002">
 							<Prp name="index" type="I" value="2"/>
-							<Prp name="key" type="S" value="{6FC01576-047A-4F75-A51E-F91DEE7426C9}"/>
+							<Prp name="key" type="S" value="{7BFE352D-DFF9-4087-858B-6F6ADE713136}"/>
 						</Node>
 						<Node name="ref0000000003">
 							<Prp name="index" type="I" value="3"/>
-							<Prp name="key" type="S" value="{CEDF4647-84B0-4A93-93AF-1790DC053018}"/>
+							<Prp name="key" type="S" value="{042E0A03-9D22-4FAF-B15F-02D049E20E48}"/>
 						</Node>
 						<Node name="ref0000000004">
 							<Prp name="index" type="I" value="4"/>
-							<Prp name="key" type="S" value="{8249333F-9B27-43D1-9726-E2D2801910D8}"/>
+							<Prp name="key" type="S" value="{5880ED2C-8E4A-4D92-92CD-988D38B7CFD2}"/>
 						</Node>
 					</Node>
 					<Prp name="caption" type="S" value="General"/>
@@ -310,26 +500,61 @@
 						</Node>
 						<Node name="folder0000000003">
 							<Node name="folders"/>
-							<Node name="references"/>
+							<Node name="references">
+								<Node name="ref0000000000">
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="key" type="S" value="{373DD492-3806-47CE-B021-B4BA1C17C975}"/>
+								</Node>
+							</Node>
 							<Prp name="caption" type="S" value="MyWorkplace"/>
 							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
 							<Prp name="index" type="I" value="3"/>
 							<Prp name="moniker" type="S" value=""/>
 						</Node>
 						<Node name="folder0000000004">
-							<Node name="folders"/>
+							<Node name="folders">
+								<Node name="folder0000000000">
+									<Node name="folders"/>
+									<Node name="references">
+										<Node name="ref0000000000">
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{1991A29C-A9F0-40FC-991E-B24E40E817CE}"/>
+										</Node>
+										<Node name="ref0000000001">
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{0E860B2A-54A4-4BD0-8BF5-6DAD8D44A5CB}"/>
+										</Node>
+										<Node name="ref0000000002">
+											<Prp name="index" type="I" value="2"/>
+											<Prp name="key" type="S" value="{6C3AF484-6C4E-4519-9A65-425BEC2A6977}"/>
+										</Node>
+										<Node name="ref0000000003">
+											<Prp name="index" type="I" value="3"/>
+											<Prp name="key" type="S" value="{F2FD2FD3-DAB1-4564-8A5A-B54A3270FC16}"/>
+										</Node>
+										<Node name="ref0000000004">
+											<Prp name="index" type="I" value="4"/>
+											<Prp name="key" type="S" value="{12589C0C-557E-4004-960D-650AB8D4ADD2}"/>
+										</Node>
+										<Node name="ref0000000005">
+											<Prp name="index" type="I" value="5"/>
+											<Prp name="key" type="S" value="{AD84807D-BD11-4AFF-8DF8-0CDE81629759}"/>
+										</Node>
+										<Node name="ref0000000006">
+											<Prp name="index" type="I" value="6"/>
+											<Prp name="key" type="S" value="{AD9DEF0D-21D6-4938-BAA7-4023C481789D}"/>
+										</Node>
+									</Node>
+									<Prp name="caption" type="S" value="Projects"/>
+									<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="moniker" type="S" value=""/>
+								</Node>
+							</Node>
 							<Node name="references">
 								<Node name="ref0000000000">
 									<Prp name="index" type="I" value="0"/>
-									<Prp name="key" type="S" value="{8001B712-6609-4DE0-BE6D-950576EA237A}"/>
-								</Node>
-								<Node name="ref0000000001">
-									<Prp name="index" type="I" value="1"/>
-									<Prp name="key" type="S" value="{4EDFB881-92F5-4F66-9DF2-1B79B818E4FA}"/>
-								</Node>
-								<Node name="ref0000000002">
-									<Prp name="index" type="I" value="2"/>
-									<Prp name="key" type="S" value="{56AAB1D3-9027-47A2-9631-0550D1F3E2AE}"/>
+									<Prp name="key" type="S" value="{14E16A91-C979-4CB3-B1AD-3277D33BBC4E}"/>
 								</Node>
 							</Node>
 							<Prp name="caption" type="S" value="Navigation"/>
@@ -367,16 +592,29 @@
 							<Node name="references">
 								<Node name="ref0000000000">
 									<Prp name="index" type="I" value="0"/>
-									<Prp name="key" type="S" value="{772593E2-4AB9-42EF-AE96-E931C35BE8CC}"/>
+									<Prp name="key" type="S" value="{9D11FF31-88A7-4780-8C0D-0EE67111067F}"/>
 								</Node>
 								<Node name="ref0000000001">
 									<Prp name="index" type="I" value="1"/>
-									<Prp name="key" type="S" value="{5AD705E5-4C06-4689-B94B-9C85702F8518}"/>
+									<Prp name="key" type="S" value="{23AB925A-59FF-4BB4-9EE7-6532FBF2AE14}"/>
 								</Node>
 							</Node>
 							<Prp name="caption" type="S" value="Navigation"/>
 							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
 							<Prp name="index" type="I" value="1"/>
+							<Prp name="moniker" type="S" value=""/>
+						</Node>
+						<Node name="folder0000000002">
+							<Node name="folders"/>
+							<Node name="references">
+								<Node name="ref0000000000">
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="key" type="S" value="{7C3217E5-D55F-42F6-B4ED-FA45A8D1235C}"/>
+								</Node>
+							</Node>
+							<Prp name="caption" type="S" value="MyWorkplace"/>
+							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
+							<Prp name="index" type="I" value="2"/>
 							<Prp name="moniker" type="S" value=""/>
 						</Node>
 					</Node>
@@ -391,51 +629,99 @@
 					<Node name="references">
 						<Node name="ref0000000000">
 							<Prp name="index" type="I" value="0"/>
-							<Prp name="key" type="S" value="{35C927CD-FB5F-49AA-B610-C2FDB78D8FDB}"/>
+							<Prp name="key" type="S" value="{2393AFD8-30DA-481C-9BB2-B8A0E6EB0E6C}"/>
 						</Node>
 						<Node name="ref0000000001">
 							<Prp name="index" type="I" value="1"/>
-							<Prp name="key" type="S" value="{41AE428A-7514-4ED7-B084-A0709DF23FF5}"/>
+							<Prp name="key" type="S" value="{6C05E41A-1B7A-4E67-A6C5-1B6AFE20469C}"/>
 						</Node>
 						<Node name="ref0000000002">
 							<Prp name="index" type="I" value="2"/>
-							<Prp name="key" type="S" value="{CF02C1D0-EDEF-4D3F-8167-5D25482C0509}"/>
+							<Prp name="key" type="S" value="{8930380A-8590-4F27-9A7A-8A7AA5A69D1A}"/>
 						</Node>
 						<Node name="ref0000000003">
 							<Prp name="index" type="I" value="3"/>
-							<Prp name="key" type="S" value="{A285756F-16BA-4354-8410-85470516D9B7}"/>
+							<Prp name="key" type="S" value="{2D416D2C-A4E8-4FB0-B92E-579126CC9B84}"/>
 						</Node>
 						<Node name="ref0000000004">
 							<Prp name="index" type="I" value="4"/>
-							<Prp name="key" type="S" value="{682AB4DD-2A0A-4B85-8758-5346EB37AD51}"/>
+							<Prp name="key" type="S" value="{F07277C5-D099-4D9B-9886-88E2657E1B26}"/>
 						</Node>
 						<Node name="ref0000000005">
 							<Prp name="index" type="I" value="5"/>
-							<Prp name="key" type="S" value="{8CEA82C4-695C-4C5F-B172-13EC8A9F38DB}"/>
+							<Prp name="key" type="S" value="{FC4388D2-DB44-471E-9033-0E2A03DB09A9}"/>
 						</Node>
 						<Node name="ref0000000006">
 							<Prp name="index" type="I" value="6"/>
-							<Prp name="key" type="S" value="{635E89A4-B6C0-4800-877B-7074E9AD3C6E}"/>
+							<Prp name="key" type="S" value="{DC2DCBC1-D72D-4B1F-B8A3-A5A4BEB81637}"/>
 						</Node>
 						<Node name="ref0000000007">
 							<Prp name="index" type="I" value="7"/>
-							<Prp name="key" type="S" value="{630E5D69-B4F9-4CA7-9335-18FEE2D3D2CE}"/>
+							<Prp name="key" type="S" value="{DADCDD8B-BA5C-42D9-8559-46163206DB82}"/>
 						</Node>
 						<Node name="ref0000000008">
 							<Prp name="index" type="I" value="8"/>
-							<Prp name="key" type="S" value="{5B831831-A54E-4855-9B67-1CB7D262DDDC}"/>
+							<Prp name="key" type="S" value="{79C83F0F-BEC5-4C46-842B-3D671D8AF1AA}"/>
 						</Node>
 						<Node name="ref0000000009">
 							<Prp name="index" type="I" value="9"/>
-							<Prp name="key" type="S" value="{667B3ADA-612B-4D9F-8A90-4AA05DA5DE36}"/>
+							<Prp name="key" type="S" value="{CF60E3F3-8EE6-42BF-9553-C5E444C0B23C}"/>
 						</Node>
 						<Node name="ref0000000010">
 							<Prp name="index" type="I" value="10"/>
-							<Prp name="key" type="S" value="{D752491D-289B-4896-BAEB-183C4FAA71C5}"/>
+							<Prp name="key" type="S" value="{771C526D-1468-4F4D-81B4-7B5DEBBE6336}"/>
 						</Node>
 						<Node name="ref0000000011">
 							<Prp name="index" type="I" value="11"/>
-							<Prp name="key" type="S" value="{52130C99-AC11-4F6D-9097-06F714A65984}"/>
+							<Prp name="key" type="S" value="{2E00FEC5-24E2-448A-87AF-A9ACB9FCD4A1}"/>
+						</Node>
+						<Node name="ref0000000012">
+							<Prp name="index" type="I" value="12"/>
+							<Prp name="key" type="S" value="{68F0B084-E7D6-4546-A709-3BDB13D47C39}"/>
+						</Node>
+						<Node name="ref0000000013">
+							<Prp name="index" type="I" value="13"/>
+							<Prp name="key" type="S" value="{80B70B6E-FDDB-4F3B-9330-EBFF526B3F86}"/>
+						</Node>
+						<Node name="ref0000000014">
+							<Prp name="index" type="I" value="14"/>
+							<Prp name="key" type="S" value="{A1CA1C1C-7393-4856-A104-8BD78D8638B7}"/>
+						</Node>
+						<Node name="ref0000000015">
+							<Prp name="index" type="I" value="15"/>
+							<Prp name="key" type="S" value="{06615D8C-475D-47B6-AEC6-F0740142B7B1}"/>
+						</Node>
+						<Node name="ref0000000016">
+							<Prp name="index" type="I" value="16"/>
+							<Prp name="key" type="S" value="{B1E7164F-0531-423B-BDF8-384557BADB07}"/>
+						</Node>
+						<Node name="ref0000000017">
+							<Prp name="index" type="I" value="17"/>
+							<Prp name="key" type="S" value="{AF06A1D0-810C-4CC1-87F3-161DAD6067B5}"/>
+						</Node>
+						<Node name="ref0000000018">
+							<Prp name="index" type="I" value="18"/>
+							<Prp name="key" type="S" value="{E7B36BED-59E7-40BA-8444-28D245297F09}"/>
+						</Node>
+						<Node name="ref0000000019">
+							<Prp name="index" type="I" value="19"/>
+							<Prp name="key" type="S" value="{F34CA9F5-4DEA-4DAE-8C11-ABE6013C40FA}"/>
+						</Node>
+						<Node name="ref0000000020">
+							<Prp name="index" type="I" value="20"/>
+							<Prp name="key" type="S" value="{0A28FC73-F85F-4214-B2E3-2FFCDABA3308}"/>
+						</Node>
+						<Node name="ref0000000021">
+							<Prp name="index" type="I" value="21"/>
+							<Prp name="key" type="S" value="{587D0A35-8ED7-41A8-8DB8-2D574F9224C8}"/>
+						</Node>
+						<Node name="ref0000000022">
+							<Prp name="index" type="I" value="22"/>
+							<Prp name="key" type="S" value="{692976C7-DC7F-49D9-B9F4-DEA204A55D0B}"/>
+						</Node>
+						<Node name="ref0000000023">
+							<Prp name="index" type="I" value="23"/>
+							<Prp name="key" type="S" value="{7ADCC55A-9383-4036-AD7F-38E6F61B9CE3}"/>
 						</Node>
 					</Node>
 					<Prp name="caption" type="S" value="Phase_TestCases"/>
