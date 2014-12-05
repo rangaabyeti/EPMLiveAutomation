@@ -440,6 +440,16 @@
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
+			<Node name="item0000000042">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Phase_Basic\Navigation\Projects\EditItem.svb"/>
+				</Node>
+				<Prp name="index" type="I" value="42"/>
+				<Prp name="key" type="S" value="{17C668EA-B733-403B-B73E-453F7E156547}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
 		</Node>
 		<Node name="folders">
 			<Node name="folders">
@@ -543,6 +553,10 @@
 										<Node name="ref0000000006">
 											<Prp name="index" type="I" value="6"/>
 											<Prp name="key" type="S" value="{AD9DEF0D-21D6-4938-BAA7-4023C481789D}"/>
+										</Node>
+										<Node name="ref0000000007">
+											<Prp name="index" type="I" value="7"/>
+											<Prp name="key" type="S" value="{17C668EA-B733-403B-B73E-453F7E156547}"/>
 										</Node>
 									</Node>
 									<Prp name="caption" type="S" value="Projects"/>
